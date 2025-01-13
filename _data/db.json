@@ -1,0 +1,5667 @@
+{
+	"total": 82,
+	"items": [
+		{
+			"custitem_ef_badges": "Top 10 ALC Arylate-Carbon",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 383.63,
+			"pricelevel12": 387.75,
+			"pricelevel15": 371.25,
+			"pricelevel14": 379.5,
+			"pricelevel11": 391.88,
+			"pricelevel10": 396.0,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Timo Boll 30th Anniversary Edition FL",
+					"url": "https://shop.butterflyonline.com/Item Images/1265FL.main.jpg"
+				},
+				"media": {
+					"urls": [
+						{
+							"altimagetext": "Butterfly Timo Boll 30th Anniversary Edition FL: Timo Boll 30th Anniversary",
+							"url": "https://shop.butterflyonline.com/Item Images/1265FL.media.01.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Timo Boll 30th Anniversary Edition FL: Close-up of Blade Face",
+							"url": "https://shop.butterflyonline.com/Item Images/1265FL.media.02.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Timo Boll 30th Anniversary Edition FL: Close-up of Flared Handle",
+							"url": "https://shop.butterflyonline.com/Item Images/1265FL.media.03.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Timo Boll 30th Anniversary Edition FL: Close-up of Plies",
+							"url": "https://shop.butterflyonline.com/Item Images/1265FL.media.04.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Timo Boll 30th Anniversary Edition FL: Close-up of Backside of the Handle",
+							"url": "https://shop.butterflyonline.com/Item Images/1265FL.media.05.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Timo Boll 30th Anniversary Edition FL: Lower Third of Blade showing Flared handle",
+							"url": "https://shop.butterflyonline.com/Item Images/1265FL.media.06.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Timo Boll 30th Anniversary Edition FL: 30th Anniversary Box",
+							"url": "https://shop.butterflyonline.com/Item Images/1265FL.media.07.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Timo Boll 30th Anniversary Edition FL: Blade & Blade Box",
+							"url": "https://shop.butterflyonline.com/Item Images/1265FL.media.08.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Timo Boll 30th Anniversary Edition FL: Front of the Blade Box",
+							"url": "https://shop.butterflyonline.com/Item Images/1265FL.media.09.jpg"
+						}
+					]
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$549.99",
+				"onlinecustomerprice": 549.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 549.99,
+						"price_formatted": "$549.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 467.49,
+						"price_formatted": "$467.49"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$549.99",
+			"internalid": 24410,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$412.50",
+			"isinstock": true,
+			"onlinecustomerprice": 549.99,
+			"itemid": "1265FL",
+			"onlinecustomerprice_formatted": "$549.99",
+			"isbackorderable": false,
+			"pricelevel16": 367.13,
+			"pricelevel18": 404.25,
+			"pricelevel9": 400.13,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Remove item when out-of-stock",
+			"pricelevel7": 408.38,
+			"quantityavailable": 39.0,
+			"pricelevel5": 549.99,
+			"displayname": "Timo Boll 30th Anniversary Edition FL",
+			"storedisplayname2": "Timo Boll 30th Anniversary Edition FL",
+			"pricelevel24": 375.38,
+			"pricelevel2": 363.0,
+			"pricelevel1": 412.5,
+			"pricelevel26": 350.63,
+			"urlcomponent": "timo-boll-30th-anniversary-edition-fl-1265FL"
+		},
+		{
+			"custitem_ef_badges": "&nbsp;",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"custitem_ns_pr_rating": 5.0,
+			"matrixchilditems_detail": [
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "FL",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 275.28,
+					"pricelevel12": 278.24,
+					"pricelevel15": 266.4,
+					"pricelevel14": 272.32,
+					"pricelevel11": 281.2,
+					"pricelevel10": 284.16,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$399.99",
+						"onlinecustomerprice": 399.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 399.99,
+								"price_formatted": "$399.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 339.99,
+								"price_formatted": "$339.99"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$399.99",
+					"internalid": 23915,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$296.00",
+					"isinstock": true,
+					"itemid": "1264FL",
+					"isbackorderable": true,
+					"pricelevel16": 263.44,
+					"pricelevel18": 290.08,
+					"pricelevel9": 287.12,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "- Default -",
+					"itemtype": "InvtPart",
+					"pricelevel7": 293.04,
+					"quantityavailable": 9.0,
+					"pricelevel5": 399.99,
+					"isdropshipitem": false,
+					"pricelevel24": 269.36,
+					"pricelevel2": 260.48,
+					"pricelevel1": 296.0,
+					"isspecialorderitem": false,
+					"pricelevel26": 251.6
+				},
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "ST",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 275.28,
+					"pricelevel12": 278.24,
+					"pricelevel15": 266.4,
+					"pricelevel14": 272.32,
+					"pricelevel11": 281.2,
+					"pricelevel10": 284.16,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$399.99",
+						"onlinecustomerprice": 399.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 399.99,
+								"price_formatted": "$399.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 339.99,
+								"price_formatted": "$339.99"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$399.99",
+					"internalid": 23916,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$296.00",
+					"isinstock": true,
+					"itemid": "1264ST",
+					"isbackorderable": true,
+					"pricelevel16": 263.44,
+					"pricelevel18": 290.08,
+					"pricelevel9": 287.12,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "- Default -",
+					"itemtype": "InvtPart",
+					"pricelevel7": 293.04,
+					"quantityavailable": 7.0,
+					"pricelevel5": 399.99,
+					"isdropshipitem": false,
+					"pricelevel24": 269.36,
+					"pricelevel2": 260.48,
+					"pricelevel1": 296.0,
+					"isspecialorderitem": false,
+					"pricelevel26": 251.6
+				}
+			],
+			"custitem_ns_pr_count": 1,
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 275.28,
+			"pricelevel12": 278.24,
+			"pricelevel15": 266.4,
+			"pricelevel14": 272.32,
+			"pricelevel11": 281.2,
+			"pricelevel10": 284.16,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Butterfly Fan Zhendong CNF",
+					"url": "https://shop.butterflyonline.com/Item Images/1264.main.jpg"
+				},
+				"media": {
+					"ST": {
+						"urls": [
+							{
+								"altimagetext": "Butterfly Fan Zhendong CNF: Close-up of Straight Handle",
+								"url": "https://shop.butterflyonline.com/Item Images/1264.media.ST.01.jpg"
+							}
+						]
+					},
+					"urls": [
+						{
+							"altimagetext": "Butterfly Fan Zhendong CNF: View of Full Blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1264.media.01.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong CNF: View of CNF plies",
+							"url": "https://shop.butterflyonline.com/Item Images/1264.media.02.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong CNF: Close-up of Blade Face",
+							"url": "https://shop.butterflyonline.com/Item Images/1264.media.03.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong CNF: Diagonal view of handle face",
+							"url": "https://shop.butterflyonline.com/Item Images/1264.media.04.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong CNF: Diagonal view of back of handle",
+							"url": "https://shop.butterflyonline.com/Item Images/1264.media.05.jpg"
+						}
+					],
+					"FL": {
+						"urls": [
+							{
+								"altimagetext": "Butterfly Fan Zhendong CNF: Close-up of Flared Handle",
+								"url": "https://shop.butterflyonline.com/Item Images/1264.media.FL.01.jpg"
+							}
+						]
+					}
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$399.99",
+				"onlinecustomerprice": 399.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 399.99,
+						"price_formatted": "$399.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 339.99,
+						"price_formatted": "$339.99"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$399.99",
+			"internalid": 23914,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$296.00",
+			"isinstock": true,
+			"onlinecustomerprice": 399.99,
+			"itemid": "1264",
+			"onlinecustomerprice_formatted": "$399.99",
+			"isbackorderable": true,
+			"pricelevel16": 263.44,
+			"pricelevel18": 290.08,
+			"onlinematrixpricerange": "399.99 399.99",
+			"pricelevel9": 287.12,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Allow back orders but display out-of-stock message",
+			"pricelevel7": 293.04,
+			"quantityavailable": 16.0,
+			"pricelevel5": 399.99,
+			"displayname": "Fan Zhendong CNF",
+			"storedisplayname2": "Fan Zhendong CNF",
+			"pricelevel24": 269.36,
+			"pricelevel2": 260.48,
+			"pricelevel1": 296.0,
+			"pricelevel26": 251.6,
+			"urlcomponent": "Fan-Zhendong-CNF-2164"
+		},
+		{
+			"custitem_ef_badges": "Top 10 Blades",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"custitem_ns_pr_rating": 5.0,
+			"matrixchilditems_detail": [
+				{
+					"custitem_ef_badges": "Top 10 Blades",
+					"custitem_bowmar_matrix_handle_style": "FL",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 275.28,
+					"pricelevel12": 278.24,
+					"pricelevel15": 266.4,
+					"pricelevel14": 272.32,
+					"pricelevel11": 281.2,
+					"pricelevel10": 284.16,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$399.99",
+						"onlinecustomerprice": 399.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 399.99,
+								"price_formatted": "$399.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 339.99,
+								"price_formatted": "$339.99"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$399.99",
+					"internalid": 23912,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$296.00",
+					"isinstock": true,
+					"itemid": "1263FL",
+					"isbackorderable": true,
+					"pricelevel16": 263.44,
+					"pricelevel18": 290.08,
+					"pricelevel9": 287.12,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "- Default -",
+					"itemtype": "InvtPart",
+					"pricelevel7": 293.04,
+					"quantityavailable": 53.0,
+					"pricelevel5": 399.99,
+					"isdropshipitem": false,
+					"pricelevel24": 269.36,
+					"pricelevel2": 260.48,
+					"pricelevel1": 296.0,
+					"isspecialorderitem": false,
+					"pricelevel26": 251.6
+				},
+				{
+					"custitem_ef_badges": "Top 10 Blades",
+					"custitem_bowmar_matrix_handle_style": "ST",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 275.28,
+					"pricelevel12": 278.24,
+					"pricelevel15": 266.4,
+					"pricelevel14": 272.32,
+					"pricelevel11": 281.2,
+					"pricelevel10": 284.16,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$399.99",
+						"onlinecustomerprice": 399.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 399.99,
+								"price_formatted": "$399.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 339.99,
+								"price_formatted": "$339.99"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$399.99",
+					"internalid": 23913,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$296.00",
+					"isinstock": true,
+					"itemid": "1263ST",
+					"isbackorderable": true,
+					"pricelevel16": 263.44,
+					"pricelevel18": 290.08,
+					"pricelevel9": 287.12,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "- Default -",
+					"itemtype": "InvtPart",
+					"pricelevel7": 293.04,
+					"quantityavailable": 13.0,
+					"pricelevel5": 399.99,
+					"isdropshipitem": false,
+					"pricelevel24": 269.36,
+					"pricelevel2": 260.48,
+					"pricelevel1": 296.0,
+					"isspecialorderitem": false,
+					"pricelevel26": 251.6
+				}
+			],
+			"custitem_ns_pr_count": 2,
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 275.28,
+			"pricelevel12": 278.24,
+			"pricelevel15": 266.4,
+			"pricelevel14": 272.32,
+			"pricelevel11": 281.2,
+			"pricelevel10": 284.16,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Fan Zhendong Super ZLC",
+					"url": "https://shop.butterflyonline.com/Item Images/1263.main.jpg"
+				},
+				"media": {
+					"ST": {
+						"urls": [
+							{
+								"altimagetext": "Butterfly Fan Zhendong Super ZLC Blade: Closeup of Straight handle",
+								"url": "https://shop.butterflyonline.com/Item Images/1263.media.ST.01.jpg"
+							}
+						]
+					},
+					"urls": [
+						{
+							"altimagetext": "Butterfly Fan Zhendong Super ZLC Blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1263.media.01.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong Super ZLC Blade: Sideview of wood plies",
+							"url": "https://shop.butterflyonline.com/Item Images/1263.media.02.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong Super ZLC Blade: View of Blade Face",
+							"url": "https://shop.butterflyonline.com/Item Images/1263.media.03.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong Super ZLC Blade: Diagonal view of handle",
+							"url": "https://shop.butterflyonline.com/Item Images/1263.media.04.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong Super ZLC Blade: Backside of the blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1263.media.05.jpg"
+						}
+					],
+					"FL": {
+						"urls": [
+							{
+								"altimagetext": "Butterfly Fan Zhendong Super ZLC Blade: Closeup of Flared handle",
+								"url": "https://shop.butterflyonline.com/Item Images/1263.media.FL.01.jpg"
+							}
+						]
+					}
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$399.99",
+				"onlinecustomerprice": 399.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 399.99,
+						"price_formatted": "$399.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 339.99,
+						"price_formatted": "$339.99"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$399.99",
+			"internalid": 23911,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$296.00",
+			"isinstock": true,
+			"onlinecustomerprice": 399.99,
+			"itemid": "1263",
+			"onlinecustomerprice_formatted": "$399.99",
+			"isbackorderable": true,
+			"pricelevel16": 263.44,
+			"pricelevel18": 290.08,
+			"onlinematrixpricerange": "399.99 399.99",
+			"pricelevel9": 287.12,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Allow back orders but display out-of-stock message",
+			"pricelevel7": 293.04,
+			"quantityavailable": 66.0,
+			"pricelevel5": 399.99,
+			"displayname": "Fan Zhendong Super ZLC",
+			"storedisplayname2": "Fan Zhendong Super ZLC",
+			"pricelevel24": 269.36,
+			"pricelevel2": 260.48,
+			"pricelevel1": 296.0,
+			"pricelevel26": 251.6,
+			"urlcomponent": "Fan-Zhendong-Super-ZLC-1263"
+		},
+		{
+			"custitem_ef_badges": "&nbsp;",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"custitem_ns_pr_rating": 5.0,
+			"custitem_ns_pr_count": 1,
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 275.28,
+			"pricelevel12": 278.24,
+			"pricelevel15": 266.4,
+			"pricelevel14": 272.32,
+			"pricelevel11": 281.2,
+			"pricelevel10": 284.16,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Fan Zhendong CNF CS",
+					"url": "https://shop.butterflyonline.com/Item Images/1020CS.main.jpg"
+				},
+				"media": {
+					"urls": [
+						{
+							"altimagetext": "Butterfly Fan Zhendong CNF CS: Close-up of entire blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1020CS.media.01.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong CNF CS: Close-up of CNF and Wood Plies",
+							"url": "https://shop.butterflyonline.com/Item Images/1020CS.media.02.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong CNF CS: Close-up of Blade Face",
+							"url": "https://shop.butterflyonline.com/Item Images/1020CS.media.03.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong CNF CS: Close-up of Handle",
+							"url": "https://shop.butterflyonline.com/Item Images/1020CS.media.04.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong CNF CS: Backside of Handle",
+							"url": "https://shop.butterflyonline.com/Item Images/1020CS.media.05.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong CNF CS: Close-up of lower third of CS handle",
+							"url": "https://shop.butterflyonline.com/Item Images/1020CS.media.06.jpg"
+						}
+					]
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$399.99",
+				"onlinecustomerprice": 399.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 399.99,
+						"price_formatted": "$399.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 339.99,
+						"price_formatted": "$339.99"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$399.99",
+			"internalid": 23901,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$296.00",
+			"isinstock": true,
+			"onlinecustomerprice": 399.99,
+			"itemid": "1020CS",
+			"onlinecustomerprice_formatted": "$399.99",
+			"isbackorderable": true,
+			"pricelevel16": 263.44,
+			"pricelevel18": 290.08,
+			"pricelevel9": 287.12,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Allow back orders but display out-of-stock message",
+			"pricelevel7": 293.04,
+			"quantityavailable": 17.0,
+			"pricelevel5": 399.99,
+			"displayname": "Fan Zhendong CNF CS",
+			"storedisplayname2": "Fan Zhendong CNF CS",
+			"pricelevel24": 269.36,
+			"pricelevel2": 260.48,
+			"pricelevel1": 296.0,
+			"pricelevel26": 251.6,
+			"urlcomponent": "Fan-Zhendong-CNF-CS-1020CS"
+		},
+		{
+			"custitem_ef_badges": "Top 10 Penhold Blades",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"custitem_ns_pr_rating": 5.0,
+			"custitem_ns_pr_count": 1,
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 275.28,
+			"pricelevel12": 278.24,
+			"pricelevel15": 266.4,
+			"pricelevel14": 272.32,
+			"pricelevel11": 281.2,
+			"pricelevel10": 284.16,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Fan Zhendong Super ZLC CS",
+					"url": "https://shop.butterflyonline.com/Item Images/1019CS.main.jpg"
+				},
+				"media": {
+					"urls": [
+						{
+							"altimagetext": "Butterfly Fan Zhendong Super ZLC CS: Close-up of entire blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1019CS.media.01.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong Super ZLC CS: Close-up of ZLC and Wood Plies",
+							"url": "https://shop.butterflyonline.com/Item Images/1019CS.media.02.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong Super ZLC CS: Close-up of Blade Face",
+							"url": "https://shop.butterflyonline.com/Item Images/1019CS.media.03.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong Super ZLC CS: Close-up of Handle",
+							"url": "https://shop.butterflyonline.com/Item Images/1019CS.media.04.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong Super ZLC CS: Close-up of the backside of the Handle",
+							"url": "https://shop.butterflyonline.com/Item Images/1019CS.media.05.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong Super ZLC CS: close up of lower third of CS handle",
+							"url": "https://shop.butterflyonline.com/Item Images/1019CS.media.06.jpg"
+						}
+					]
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$399.99",
+				"onlinecustomerprice": 399.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 399.99,
+						"price_formatted": "$399.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 339.99,
+						"price_formatted": "$339.99"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$399.99",
+			"internalid": 23900,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$296.00",
+			"isinstock": false,
+			"onlinecustomerprice": 399.99,
+			"itemid": "1019CS",
+			"onlinecustomerprice_formatted": "$399.99",
+			"isbackorderable": true,
+			"pricelevel16": 263.44,
+			"pricelevel18": 290.08,
+			"pricelevel9": 287.12,
+			"showoutofstockmessage": true,
+			"outofstockbehavior": "Allow back orders but display out-of-stock message",
+			"pricelevel7": 293.04,
+			"quantityavailable": 0.0,
+			"pricelevel5": 399.99,
+			"displayname": "Fan Zhendong Super ZLC CS",
+			"storedisplayname2": "Fan Zhendong Super ZLC CS",
+			"pricelevel24": 269.36,
+			"pricelevel2": 260.48,
+			"pricelevel1": 296.0,
+			"pricelevel26": 251.6,
+			"urlcomponent": "Fan-Zhendong-Super-ZLC-CS"
+		},
+		{
+			"custitem_ef_badges": "Top 10 Blades",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"custitem_ns_pr_rating": 5.0,
+			"matrixchilditems_detail": [
+				{
+					"custitem_ef_badges": "Top 10 Blades",
+					"custitem_bowmar_matrix_handle_style": "AN",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 275.28,
+					"pricelevel12": 278.24,
+					"pricelevel15": 266.4,
+					"pricelevel14": 272.32,
+					"pricelevel11": 281.2,
+					"pricelevel10": 284.16,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$399.99",
+						"onlinecustomerprice": 399.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 399.99,
+								"price_formatted": "$399.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 339.99,
+								"price_formatted": "$339.99"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$399.99",
+					"internalid": 22886,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$296.00",
+					"isinstock": true,
+					"itemid": "1254AN",
+					"isbackorderable": true,
+					"pricelevel16": 263.44,
+					"pricelevel18": 290.08,
+					"pricelevel9": 287.12,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 293.04,
+					"quantityavailable": 9.0,
+					"pricelevel5": 399.99,
+					"isdropshipitem": false,
+					"pricelevel24": 269.36,
+					"pricelevel2": 260.48,
+					"pricelevel1": 296.0,
+					"isspecialorderitem": false,
+					"pricelevel26": 251.6
+				},
+				{
+					"custitem_ef_badges": "Top 10 Blades",
+					"custitem_bowmar_matrix_handle_style": "FL",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 275.28,
+					"pricelevel12": 278.24,
+					"pricelevel15": 266.4,
+					"pricelevel14": 272.32,
+					"pricelevel11": 281.2,
+					"pricelevel10": 284.16,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$399.99",
+						"onlinecustomerprice": 399.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 399.99,
+								"price_formatted": "$399.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 339.99,
+								"price_formatted": "$339.99"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$399.99",
+					"internalid": 22887,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$296.00",
+					"isinstock": true,
+					"itemid": "1254FL",
+					"isbackorderable": true,
+					"pricelevel16": 263.44,
+					"pricelevel18": 290.08,
+					"pricelevel9": 287.12,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 293.04,
+					"quantityavailable": 9.0,
+					"pricelevel5": 399.99,
+					"isdropshipitem": false,
+					"pricelevel24": 269.36,
+					"pricelevel2": 260.48,
+					"pricelevel1": 296.0,
+					"isspecialorderitem": false,
+					"pricelevel26": 251.6
+				},
+				{
+					"custitem_ef_badges": "Top 10 Blades",
+					"custitem_bowmar_matrix_handle_style": "ST",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 275.28,
+					"pricelevel12": 278.24,
+					"pricelevel15": 266.4,
+					"pricelevel14": 272.32,
+					"pricelevel11": 281.2,
+					"pricelevel10": 284.16,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$399.99",
+						"onlinecustomerprice": 399.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 399.99,
+								"price_formatted": "$399.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 339.99,
+								"price_formatted": "$339.99"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$399.99",
+					"internalid": 22888,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$296.00",
+					"isinstock": true,
+					"itemid": "1254ST",
+					"isbackorderable": true,
+					"pricelevel16": 263.44,
+					"pricelevel18": 290.08,
+					"pricelevel9": 287.12,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 293.04,
+					"quantityavailable": 1.0,
+					"pricelevel5": 399.99,
+					"isdropshipitem": false,
+					"pricelevel24": 269.36,
+					"pricelevel2": 260.48,
+					"pricelevel1": 296.0,
+					"isspecialorderitem": false,
+					"pricelevel26": 251.6
+				}
+			],
+			"custitem_ns_pr_count": 3,
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 275.28,
+			"pricelevel12": 278.24,
+			"pricelevel15": 266.4,
+			"pricelevel14": 272.32,
+			"pricelevel11": 281.2,
+			"pricelevel10": 284.16,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Lin Yun-Ju Super ZLC Blade: Full Blade Image",
+					"url": "https://shop.butterflyonline.com/Item Images/1254.main.jpg"
+				},
+				"media": {
+					"ST": {
+						"urls": [
+							{
+								"altimagetext": "Lin Yun-Ju Super ZLC Blade: Close-up of Straight Handle Type",
+								"url": "https://shop.butterflyonline.com/Item Images/1254.media.ST.01.jpg"
+							}
+						]
+					},
+					"urls": [
+						{
+							"altimagetext": "Butterfly Lin Yun-Ju Super ZLC Blade: Full Blade Image",
+							"url": "https://shop.butterflyonline.com/Item Images/1254.media.01.jpg"
+						},
+						{
+							"altimagetext": "Lin Yun-Ju Super ZLC Blade: Close-up of Sideview Blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1254.media.02.jpg"
+						}
+					],
+					"FL": {
+						"urls": [
+							{
+								"altimagetext": "Lin Yun-Ju Super ZLC Blade: Close-up of FL Handle Type",
+								"url": "https://shop.butterflyonline.com/Item Images/1254.media.FL.01.jpg"
+							},
+							{
+								"altimagetext": "Lin Yun-Ju Super ZLC Blade: Top View of Flared Handle Type",
+								"url": "https://shop.butterflyonline.com/Item Images/1254.media.FL.02.jpg"
+							},
+							{
+								"altimagetext": "Lin Yun-Ju Super ZLC Blade: Close-up of Flared Handle Type",
+								"url": "https://shop.butterflyonline.com/Item Images/1254.media.FL.03.jpg"
+							}
+						]
+					},
+					"AN": {
+						"urls": [
+							{
+								"altimagetext": "Lin Yun-Ju Super ZLC Blade: Close-up of Anatomic Handle Type",
+								"url": "https://shop.butterflyonline.com/Item Images/1254.media.AN.01.jpg"
+							}
+						]
+					}
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$399.99",
+				"onlinecustomerprice": 399.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 399.99,
+						"price_formatted": "$399.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 339.99,
+						"price_formatted": "$339.99"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$399.99",
+			"internalid": 22885,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$296.00",
+			"isinstock": true,
+			"onlinecustomerprice": 399.99,
+			"itemid": "1254",
+			"onlinecustomerprice_formatted": "$399.99",
+			"isbackorderable": true,
+			"pricelevel16": 263.44,
+			"pricelevel18": 290.08,
+			"onlinematrixpricerange": "399.99 399.99",
+			"pricelevel9": 287.12,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Allow back orders with no out-of-stock message",
+			"pricelevel7": 293.04,
+			"quantityavailable": 19.0,
+			"pricelevel5": 399.99,
+			"displayname": "Lin Yun-Ju Super ZLC Blade",
+			"storedisplayname2": "Lin Yun-Ju Super ZLC Blade",
+			"pricelevel24": 269.36,
+			"pricelevel2": 260.48,
+			"pricelevel1": 296.0,
+			"pricelevel26": 251.6,
+			"urlcomponent": "Lin-Yun-Ju-Super-ZLC-Blade-1254"
+		},
+		{
+			"custitem_ef_badges": "&nbsp;",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"custitem_ns_pr_rating": 4.0,
+			"matrixchilditems_detail": [
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "AN",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 275.28,
+					"pricelevel12": 278.24,
+					"pricelevel15": 266.4,
+					"pricelevel14": 272.32,
+					"pricelevel11": 281.2,
+					"pricelevel10": 284.16,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$399.99",
+						"onlinecustomerprice": 399.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 399.99,
+								"price_formatted": "$399.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 339.99,
+								"price_formatted": "$339.99"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$399.99",
+					"internalid": 19430,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$296.00",
+					"isinstock": true,
+					"itemid": "1250AN",
+					"isbackorderable": true,
+					"pricelevel16": 263.44,
+					"pricelevel18": 290.08,
+					"pricelevel9": 287.12,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 293.04,
+					"quantityavailable": 2.0,
+					"pricelevel5": 399.99,
+					"isdropshipitem": false,
+					"pricelevel24": 269.36,
+					"pricelevel2": 260.48,
+					"pricelevel1": 296.0,
+					"isspecialorderitem": false,
+					"pricelevel26": 251.6
+				},
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "FL",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 275.28,
+					"pricelevel12": 278.24,
+					"pricelevel15": 266.4,
+					"pricelevel14": 272.32,
+					"pricelevel11": 281.2,
+					"pricelevel10": 284.16,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$399.99",
+						"onlinecustomerprice": 399.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 399.99,
+								"price_formatted": "$399.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 339.99,
+								"price_formatted": "$339.99"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$399.99",
+					"internalid": 19431,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$296.00",
+					"isinstock": true,
+					"itemid": "1250FL",
+					"isbackorderable": true,
+					"pricelevel16": 263.44,
+					"pricelevel18": 290.08,
+					"pricelevel9": 287.12,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 293.04,
+					"quantityavailable": 8.0,
+					"pricelevel5": 399.99,
+					"isdropshipitem": false,
+					"pricelevel24": 269.36,
+					"pricelevel2": 260.48,
+					"pricelevel1": 296.0,
+					"isspecialorderitem": false,
+					"pricelevel26": 251.6
+				},
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "ST",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 275.28,
+					"pricelevel12": 278.24,
+					"pricelevel15": 266.4,
+					"pricelevel14": 272.32,
+					"pricelevel11": 281.2,
+					"pricelevel10": 284.16,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$399.99",
+						"onlinecustomerprice": 399.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 399.99,
+								"price_formatted": "$399.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 339.99,
+								"price_formatted": "$339.99"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$399.99",
+					"internalid": 19432,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$296.00",
+					"isinstock": false,
+					"itemid": "1250ST",
+					"isbackorderable": true,
+					"pricelevel16": 263.44,
+					"pricelevel18": 290.08,
+					"pricelevel9": 287.12,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 293.04,
+					"quantityavailable": 0.0,
+					"pricelevel5": 399.99,
+					"isdropshipitem": false,
+					"pricelevel24": 269.36,
+					"pricelevel2": 260.48,
+					"pricelevel1": 296.0,
+					"isspecialorderitem": false,
+					"pricelevel26": 251.6
+				}
+			],
+			"custitem_ns_pr_count": 1,
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 275.28,
+			"pricelevel12": 278.24,
+			"pricelevel15": 266.4,
+			"pricelevel14": 272.32,
+			"pricelevel11": 281.2,
+			"pricelevel10": 284.16,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Harimoto Innerforce Super ZLC Blade: All Blades",
+					"url": "https://shop.butterflyonline.com/Item Images/1250.main.jpg"
+				},
+				"media": {
+					"ST": {
+						"urls": [
+							{
+								"altimagetext": "Harimoto Innerforce Super ZLC Blade: Straight Handle Profile",
+								"url": "https://shop.butterflyonline.com/Item Images/1250.media.ST.01.jpg"
+							}
+						]
+					},
+					"urls": [
+						{
+							"altimagetext": "Harimoto Innerforce Super ZLC Blade: All Handle Types",
+							"url": "https://shop.butterflyonline.com/Item Images/1250.media.01.jpg"
+						},
+						{
+							"altimagetext": "Harimoto Innerforce Super ZLC Blade: Sideview",
+							"url": "https://shop.butterflyonline.com/Item Images/1250.media.02.jpg"
+						},
+						{
+							"altimagetext": "Harimoto Innerforce Super ZLC Blade: Flared Handle",
+							"url": "https://shop.butterflyonline.com/Item Images/1250.media.03.jpg"
+						}
+					],
+					"FL": {
+						"urls": [
+							{
+								"altimagetext": "Harimoto Innerforce Super ZLC Blade: Flared Profile",
+								"url": "https://shop.butterflyonline.com/Item Images/1250.media.FL.01.jpg"
+							}
+						]
+					},
+					"AN": {
+						"urls": [
+							{
+								"altimagetext": "Harimoto Innerforce Super ZLC Blade: AN Profile",
+								"url": "https://shop.butterflyonline.com/Item Images/1250.media.AN.01.jpg"
+							},
+							{
+								"altimagetext": "Harimoto Innerforce Super ZLC Blade: AN Full Profile",
+								"url": "https://shop.butterflyonline.com/Item Images/1250.media.AN.02.jpg"
+							}
+						]
+					}
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$399.99",
+				"onlinecustomerprice": 399.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 399.99,
+						"price_formatted": "$399.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 339.99,
+						"price_formatted": "$339.99"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$399.99",
+			"internalid": 19330,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$296.00",
+			"isinstock": true,
+			"onlinecustomerprice": 399.99,
+			"itemid": "1250",
+			"onlinecustomerprice_formatted": "$399.99",
+			"isbackorderable": true,
+			"pricelevel16": 263.44,
+			"pricelevel18": 290.08,
+			"onlinematrixpricerange": "399.99 399.99",
+			"pricelevel9": 287.12,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Allow back orders with no out-of-stock message",
+			"pricelevel7": 293.04,
+			"quantityavailable": 10.0,
+			"pricelevel5": 399.99,
+			"displayname": "Harimoto Innerforce Super ZLC Blade",
+			"storedisplayname2": "Harimoto Innerforce Super ZLC Blade",
+			"pricelevel24": 269.36,
+			"pricelevel2": 260.48,
+			"pricelevel1": 296.0,
+			"pricelevel26": 251.6,
+			"urlcomponent": "Harimoto-Innerforce-Super-ZLC"
+		},
+		{
+			"custitem_ef_badges": "Top 10 Penhold Blades",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"custitem_ns_pr_rating": 5.0,
+			"custitem_ns_pr_count": 1,
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 275.28,
+			"pricelevel12": 278.24,
+			"pricelevel15": 266.4,
+			"pricelevel14": 272.32,
+			"pricelevel11": 281.2,
+			"pricelevel10": 284.16,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Harimoto Innerforce Super ZLC CS Blade",
+					"url": "https://shop.butterflyonline.com/Item Images/1011CS.main.jpg"
+				},
+				"media": {
+					"urls": [
+						{
+							"altimagetext": "Harimoto Innerforce Super ZLC Chinese Style Penhold Blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1011CS.media.01.jpg"
+						},
+						{
+							"altimagetext": "Harimoto Innerforce Super ZLC CS Blade: Vertical Image of Blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1011CS.media.02.jpg"
+						},
+						{
+							"altimagetext": "Harimoto Innerforce Super ZLC CS Blade: Backside of Handle Face",
+							"url": "https://shop.butterflyonline.com/Item Images/1011CS.media.03.png"
+						},
+						{
+							"altimagetext": "Harimoto Innerforce Super ZLC CS Blade: Diagonal view Blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1011CS.media.04.jpg"
+						},
+						{
+							"altimagetext": "Harimoto Innerforce Super ZLC CS Blade: Super ZLC Plies",
+							"url": "https://shop.butterflyonline.com/Item Images/1011CS.media.05.jpg"
+						}
+					]
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$399.99",
+				"onlinecustomerprice": 399.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 399.99,
+						"price_formatted": "$399.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 339.99,
+						"price_formatted": "$339.99"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$399.99",
+			"internalid": 18637,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$296.00",
+			"isinstock": true,
+			"onlinecustomerprice": 399.99,
+			"itemid": "1011CS",
+			"onlinecustomerprice_formatted": "$399.99",
+			"isbackorderable": true,
+			"pricelevel16": 263.44,
+			"pricelevel18": 290.08,
+			"pricelevel9": 287.12,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Allow back orders with no out-of-stock message",
+			"pricelevel7": 293.04,
+			"quantityavailable": 10.0,
+			"pricelevel5": 399.99,
+			"displayname": "Harimoto Innerforce Super ZLC CS Blade",
+			"storedisplayname2": "Harimoto Innerforce Super ZLC CS Blade",
+			"pricelevel24": 269.36,
+			"pricelevel2": 260.48,
+			"pricelevel1": 296.0,
+			"pricelevel26": 251.6,
+			"urlcomponent": "Harimoto-Innerforce-Super-ZLC-CS"
+		},
+		{
+			"custitem_ef_badges": "&nbsp;",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"custitem_ns_pr_rating": 5.0,
+			"matrixchilditems_detail": [
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "AN",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 275.28,
+					"pricelevel12": 278.24,
+					"pricelevel15": 266.4,
+					"pricelevel14": 272.32,
+					"pricelevel11": 281.2,
+					"pricelevel10": 284.16,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$399.99",
+						"onlinecustomerprice": 399.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 399.99,
+								"price_formatted": "$399.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 339.99,
+								"price_formatted": "$339.99"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$399.99",
+					"internalid": 9678,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$296.00",
+					"isinstock": true,
+					"itemid": "1221AN",
+					"isbackorderable": true,
+					"pricelevel16": 263.44,
+					"pricelevel18": 290.08,
+					"pricelevel9": 287.12,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 293.04,
+					"quantityavailable": 2.0,
+					"pricelevel5": 399.99,
+					"isdropshipitem": false,
+					"pricelevel24": 269.36,
+					"pricelevel2": 260.48,
+					"pricelevel1": 296.0,
+					"isspecialorderitem": false,
+					"pricelevel26": 251.6
+				},
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "FL",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 275.28,
+					"pricelevel12": 278.24,
+					"pricelevel15": 266.4,
+					"pricelevel14": 272.32,
+					"pricelevel11": 281.2,
+					"pricelevel10": 284.16,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$399.99",
+						"onlinecustomerprice": 399.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 399.99,
+								"price_formatted": "$399.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 339.99,
+								"price_formatted": "$339.99"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$399.99",
+					"internalid": 9679,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$296.00",
+					"isinstock": true,
+					"itemid": "1221FL",
+					"isbackorderable": true,
+					"pricelevel16": 263.44,
+					"pricelevel18": 290.08,
+					"pricelevel9": 287.12,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 293.04,
+					"quantityavailable": 24.0,
+					"pricelevel5": 399.99,
+					"isdropshipitem": false,
+					"pricelevel24": 269.36,
+					"pricelevel2": 260.48,
+					"pricelevel1": 296.0,
+					"isspecialorderitem": false,
+					"pricelevel26": 251.6
+				},
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "ST",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 275.28,
+					"pricelevel12": 278.24,
+					"pricelevel15": 266.4,
+					"pricelevel14": 272.32,
+					"pricelevel11": 281.2,
+					"pricelevel10": 284.16,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$399.99",
+						"onlinecustomerprice": 399.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 399.99,
+								"price_formatted": "$399.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 339.99,
+								"price_formatted": "$339.99"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$399.99",
+					"internalid": 9680,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$296.00",
+					"isinstock": true,
+					"itemid": "1221ST",
+					"isbackorderable": true,
+					"pricelevel16": 263.44,
+					"pricelevel18": 290.08,
+					"pricelevel9": 287.12,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 293.04,
+					"quantityavailable": 4.0,
+					"pricelevel5": 399.99,
+					"isdropshipitem": false,
+					"pricelevel24": 269.36,
+					"pricelevel2": 260.48,
+					"pricelevel1": 296.0,
+					"isspecialorderitem": false,
+					"pricelevel26": 251.6
+				}
+			],
+			"custitem_ns_pr_count": 1,
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 275.28,
+			"pricelevel12": 278.24,
+			"pricelevel15": 266.4,
+			"pricelevel14": 272.32,
+			"pricelevel11": 281.2,
+			"pricelevel10": 284.16,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Mizutani Jun Super ZLC Blade: All Handle Types",
+					"url": "https://shop.butterflyonline.com/Item Images/1221.main.jpg"
+				},
+				"media": {
+					"ST": {
+						"urls": [
+							{
+								"altimagetext": "Mizutani Jun Super ZLC Blade: Straight Handle Full Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1221.media.ST.01.jpg"
+							},
+							{
+								"altimagetext": "Mizutani Jun Super ZLC Blade: Straight Handle Close-up",
+								"url": "https://shop.butterflyonline.com/Item Images/1221.media.ST.02.jpg"
+							}
+						]
+					},
+					"urls": [
+						{
+							"altimagetext": "Mizutani Jun Super ZLC Blade: All Handle Types",
+							"url": "https://shop.butterflyonline.com/Item Images/1221.media.01.jpg"
+						},
+						{
+							"altimagetext": "Mizutani Jun Super ZLC Blade: Blade Face",
+							"url": "https://shop.butterflyonline.com/Item Images/1221.media.02.jpg"
+						},
+						{
+							"altimagetext": "Mizutani Jun Super ZLC Blade: Sideview of Blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1221.media.03.jpg"
+						}
+					],
+					"FL": {
+						"urls": [
+							{
+								"altimagetext": "Mizutani Jun Super ZLC Blade: Flared Full Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1221.media.FL.01.jpg"
+							},
+							{
+								"altimagetext": "Mizutani Jun Super ZLC Blade: Flared Handle Close-up",
+								"url": "https://shop.butterflyonline.com/Item Images/1221.media.FL.02.jpg"
+							}
+						]
+					},
+					"AN": {
+						"urls": [
+							{
+								"altimagetext": "Mizutani Jun Super ZLC Blade: AN Handle. Full Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1221.media.AN.01.jpg"
+							},
+							{
+								"altimagetext": "Mizutani Jun Super ZLC Blade: AN Handle",
+								"url": "https://shop.butterflyonline.com/Item Images/1221.media.AN.02.jpg"
+							}
+						]
+					}
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$399.99",
+				"onlinecustomerprice": 399.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 399.99,
+						"price_formatted": "$399.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 339.99,
+						"price_formatted": "$339.99"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$399.99",
+			"internalid": 9551,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$296.00",
+			"isinstock": true,
+			"onlinecustomerprice": 399.99,
+			"itemid": "1221",
+			"onlinecustomerprice_formatted": "$399.99",
+			"isbackorderable": true,
+			"pricelevel16": 263.44,
+			"pricelevel18": 290.08,
+			"onlinematrixpricerange": "399.99 399.99",
+			"pricelevel9": 287.12,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Allow back orders with no out-of-stock message",
+			"pricelevel7": 293.04,
+			"quantityavailable": 30.0,
+			"pricelevel5": 399.99,
+			"displayname": "Mizutani Jun Super ZLC Blade",
+			"storedisplayname2": "Mizutani Jun Super ZLC Blade",
+			"pricelevel24": 269.36,
+			"pricelevel2": 260.48,
+			"pricelevel1": 296.0,
+			"pricelevel26": 251.6,
+			"urlcomponent": "mizutani-jun-super-zlc-blade-7775p"
+		},
+		{
+			"custitem_ef_badges": "Top 10 Blades",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"custitem_ns_pr_rating": 5.0,
+			"matrixchilditems_detail": [
+				{
+					"custitem_ef_badges": "Top 10 Blades",
+					"custitem_bowmar_matrix_handle_style": "AN",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 275.28,
+					"pricelevel12": 278.24,
+					"pricelevel15": 266.4,
+					"pricelevel14": 272.32,
+					"pricelevel11": 281.2,
+					"pricelevel10": 284.16,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$399.99",
+						"onlinecustomerprice": 399.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 399.99,
+								"price_formatted": "$399.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 339.99,
+								"price_formatted": "$339.99"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$399.99",
+					"internalid": 9666,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$296.00",
+					"isinstock": true,
+					"itemid": "1217AN",
+					"isbackorderable": false,
+					"pricelevel16": 263.44,
+					"pricelevel18": 290.08,
+					"pricelevel9": 287.12,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Remove item when out-of-stock",
+					"itemtype": "InvtPart",
+					"pricelevel7": 293.04,
+					"quantityavailable": 1.0,
+					"pricelevel5": 399.99,
+					"isdropshipitem": false,
+					"pricelevel24": 269.36,
+					"pricelevel2": 260.48,
+					"pricelevel1": 296.0,
+					"isspecialorderitem": false,
+					"pricelevel26": 251.6
+				},
+				{
+					"custitem_ef_badges": "Top 10 Blades",
+					"custitem_bowmar_matrix_handle_style": "FL",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 275.28,
+					"pricelevel12": 278.24,
+					"pricelevel15": 266.4,
+					"pricelevel14": 272.32,
+					"pricelevel11": 281.2,
+					"pricelevel10": 284.16,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$399.99",
+						"onlinecustomerprice": 399.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 399.99,
+								"price_formatted": "$399.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 339.99,
+								"price_formatted": "$339.99"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$399.99",
+					"internalid": 9667,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$296.00",
+					"isinstock": true,
+					"itemid": "1217FL",
+					"isbackorderable": false,
+					"pricelevel16": 263.44,
+					"pricelevel18": 290.08,
+					"pricelevel9": 287.12,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Remove item when out-of-stock",
+					"itemtype": "InvtPart",
+					"pricelevel7": 293.04,
+					"quantityavailable": 25.0,
+					"pricelevel5": 399.99,
+					"isdropshipitem": false,
+					"pricelevel24": 269.36,
+					"pricelevel2": 260.48,
+					"pricelevel1": 296.0,
+					"isspecialorderitem": false,
+					"pricelevel26": 251.6
+				},
+				{
+					"custitem_ef_badges": "Top 10 Blades",
+					"custitem_bowmar_matrix_handle_style": "ST",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 275.28,
+					"pricelevel12": 278.24,
+					"pricelevel15": 266.4,
+					"pricelevel14": 272.32,
+					"pricelevel11": 281.2,
+					"pricelevel10": 284.16,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$399.99",
+						"onlinecustomerprice": 399.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 399.99,
+								"price_formatted": "$399.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 339.99,
+								"price_formatted": "$339.99"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$399.99",
+					"internalid": 9668,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$296.00",
+					"isinstock": true,
+					"itemid": "1217ST",
+					"isbackorderable": false,
+					"pricelevel16": 263.44,
+					"pricelevel18": 290.08,
+					"pricelevel9": 287.12,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Remove item when out-of-stock",
+					"itemtype": "InvtPart",
+					"pricelevel7": 293.04,
+					"quantityavailable": 3.0,
+					"pricelevel5": 399.99,
+					"isdropshipitem": false,
+					"pricelevel24": 269.36,
+					"pricelevel2": 260.48,
+					"pricelevel1": 296.0,
+					"isspecialorderitem": false,
+					"pricelevel26": 251.6
+				}
+			],
+			"custitem_ns_pr_count": 6,
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 275.28,
+			"pricelevel12": 278.24,
+			"pricelevel15": 266.4,
+			"pricelevel14": 272.32,
+			"pricelevel11": 281.2,
+			"pricelevel10": 284.16,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Zhang Jike Super ZLC Blade: All Handle Types",
+					"url": "https://shop.butterflyonline.com/Item Images/1217.main.jpg"
+				},
+				"media": {
+					"urls": [
+						{
+							"altimagetext": "Zhang Jike Super ZLC Blade: All Handle Types",
+							"url": "https://shop.butterflyonline.com/Item Images/1217.media.01.jpg"
+						},
+						{
+							"altimagetext": "Zhang Jike Super ZLC Blade: Blade Face",
+							"url": "https://shop.butterflyonline.com/Item Images/1217.media.02.jpg"
+						},
+						{
+							"altimagetext": "Zhang Jike Super ZLC Blade: Sideview of Handle Shaft",
+							"url": "https://shop.butterflyonline.com/Item Images/1217.media.03.jpg"
+						}
+					],
+					"AN": {
+						"urls": [
+							{
+								"altimagetext": "Zhang Jike Super ZLC Blade: AN Handle Full Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1217.media.AN.01.jpg"
+							},
+							{
+								"altimagetext": "Zhang Jike Super ZLC Blade: AN Handle Close-up",
+								"url": "https://shop.butterflyonline.com/Item Images/1217.media.AN.02.jpg"
+							}
+						]
+					}
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$399.99",
+				"onlinecustomerprice": 399.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 399.99,
+						"price_formatted": "$399.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 339.99,
+						"price_formatted": "$339.99"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$399.99",
+			"internalid": 9547,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$296.00",
+			"isinstock": true,
+			"onlinecustomerprice": 399.99,
+			"itemid": "1217",
+			"onlinecustomerprice_formatted": "$399.99",
+			"isbackorderable": false,
+			"pricelevel16": 263.44,
+			"pricelevel18": 290.08,
+			"onlinematrixpricerange": "399.99 399.99",
+			"pricelevel9": 287.12,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Remove item when out-of-stock",
+			"pricelevel7": 293.04,
+			"quantityavailable": 29.0,
+			"pricelevel5": 399.99,
+			"displayname": "Zhang Jike Super ZLC Blade",
+			"storedisplayname2": "Zhang Jike Super ZLC Blade",
+			"pricelevel24": 269.36,
+			"pricelevel2": 260.48,
+			"pricelevel1": 296.0,
+			"pricelevel26": 251.6,
+			"urlcomponent": "zhang-jike-super-zlc-1217"
+		},
+		{
+			"custitem_ef_badges": "&nbsp;",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"custitem_ns_pr_rating": 5.0,
+			"matrixchilditems_detail": [
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "FL",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 254.63,
+					"pricelevel12": 257.37,
+					"pricelevel15": 246.42,
+					"pricelevel14": 251.9,
+					"pricelevel11": 260.11,
+					"pricelevel10": 262.85,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$369.99",
+						"onlinecustomerprice": 369.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 369.99,
+								"price_formatted": "$369.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 314.49,
+								"price_formatted": "$314.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$369.99",
+					"internalid": 19533,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$273.80",
+					"isinstock": true,
+					"itemid": "1252FL",
+					"isbackorderable": true,
+					"pricelevel16": 243.68,
+					"pricelevel18": 268.32,
+					"pricelevel9": 265.59,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 271.06,
+					"quantityavailable": 34.0,
+					"pricelevel5": 369.99,
+					"isdropshipitem": false,
+					"pricelevel24": 249.16,
+					"pricelevel2": 240.94,
+					"pricelevel1": 273.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 232.73
+				}
+			],
+			"custitem_ns_pr_count": 3,
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 254.63,
+			"pricelevel12": 257.37,
+			"pricelevel15": 246.42,
+			"pricelevel14": 251.9,
+			"pricelevel11": 260.11,
+			"pricelevel10": 262.85,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "",
+					"url": "https://shop.butterflyonline.com/Item Images/1252.main.jpg"
+				},
+				"media": {
+					"urls": [
+						{
+							"altimagetext": "Revoldia CNF Blade: Full Blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1252.media.01.png"
+						},
+						{
+							"altimagetext": "Revoldia CNF Blade: Sideview of Blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1252.media.02.png"
+						},
+						{
+							"altimagetext": "Revoldia CNF Blade: Horizontal View",
+							"url": "https://shop.butterflyonline.com/Item Images/1252.media.03.png"
+						},
+						{
+							"altimagetext": "Revoldia CNF Blade: Handle View",
+							"url": "https://shop.butterflyonline.com/Item Images/1252.media.04.png"
+						},
+						{
+							"altimagetext": "Revoldia CNF Blade: Full Blade View",
+							"url": "https://shop.butterflyonline.com/Item Images/1252.media.05.png"
+						}
+					]
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$369.99",
+				"onlinecustomerprice": 369.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 369.99,
+						"price_formatted": "$369.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 314.49,
+						"price_formatted": "$314.49"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$369.99",
+			"internalid": 18532,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$273.80",
+			"isinstock": true,
+			"onlinecustomerprice": 369.99,
+			"itemid": "1252",
+			"onlinecustomerprice_formatted": "$369.99",
+			"isbackorderable": true,
+			"pricelevel16": 243.68,
+			"pricelevel18": 268.32,
+			"onlinematrixpricerange": "369.99 369.99",
+			"pricelevel9": 265.59,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Allow back orders with no out-of-stock message",
+			"pricelevel7": 271.06,
+			"quantityavailable": 34.0,
+			"pricelevel5": 369.99,
+			"displayname": "Revoldia CNF Blade",
+			"storedisplayname2": "Revoldia CNF Blade",
+			"pricelevel24": 249.16,
+			"pricelevel2": 240.94,
+			"pricelevel1": 273.8,
+			"pricelevel26": 232.73,
+			"urlcomponent": "Revoldia-CNF"
+		},
+		{
+			"custitem_ef_badges": "Top 10 Penhold Blades",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"custitem_ns_pr_rating": 5.0,
+			"custitem_ns_pr_count": 3,
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 244.4,
+			"pricelevel12": 247.03,
+			"pricelevel15": 236.52,
+			"pricelevel14": 241.78,
+			"pricelevel11": 249.66,
+			"pricelevel10": 252.29,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Cypress G-Max Japanese Style Penhold Blade",
+					"url": "https://shop.butterflyonline.com/Item Images/1084JP.main.jpg"
+				},
+				"media": {
+					"urls": [
+						{
+							"altimagetext": "Cypress G-Max S Blade Penhold Blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1084JP.media.01.jpg"
+						},
+						{
+							"altimagetext": "",
+							"url": "https://shop.butterflyonline.com/Item Images/1084JP.media.02.jpg"
+						}
+					]
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$359.99",
+				"onlinecustomerprice": 359.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 359.99,
+						"price_formatted": "$359.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 305.99,
+						"price_formatted": "$305.99"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$359.99",
+			"internalid": 10439,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$262.80",
+			"isinstock": false,
+			"onlinecustomerprice": 359.99,
+			"itemid": "1084JP",
+			"onlinecustomerprice_formatted": "$359.99",
+			"isbackorderable": true,
+			"pricelevel16": 233.89,
+			"pricelevel18": 257.54,
+			"pricelevel9": 254.92,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Allow back orders with no out-of-stock message",
+			"pricelevel7": 260.17,
+			"quantityavailable": 0.0,
+			"pricelevel5": 359.99,
+			"displayname": "Cypress G-Max S Blade",
+			"storedisplayname2": "Cypress G-Max S Blade",
+			"pricelevel24": 239.15,
+			"pricelevel2": 231.26,
+			"pricelevel1": 262.8,
+			"pricelevel26": 223.38,
+			"urlcomponent": "cypress-g-max-s-7364"
+		},
+		{
+			"custitem_ef_badges": "&nbsp;",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"custitem_ns_pr_rating": 5.0,
+			"matrixchilditems_detail": [
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "FL",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 23909,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1262FL",
+					"isbackorderable": true,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "- Default -",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 6.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				},
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "ST",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 23910,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1262ST",
+					"isbackorderable": true,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "- Default -",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 20.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				}
+			],
+			"custitem_ns_pr_count": 2,
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 185.81,
+			"pricelevel12": 187.81,
+			"pricelevel15": 179.82,
+			"pricelevel14": 183.82,
+			"pricelevel11": 189.81,
+			"pricelevel10": 191.81,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Fan Zhendong ZLC",
+					"url": "https://shop.butterflyonline.com/Item Images/1262.main.jpg"
+				},
+				"media": {
+					"ST": {
+						"urls": [
+							{
+								"altimagetext": "Butterfly Fan Zhendong ZLC: Close up of the Straight Handle Type",
+								"url": "https://shop.butterflyonline.com/Item Images/1262.media.ST.01.jpg"
+							}
+						]
+					},
+					"urls": [
+						{
+							"altimagetext": "Butterfly Fan Zhendong ZLC: Close-up of the entire blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1262.media.01.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong ZLC: Close-up of ZLC and Wood Plies",
+							"url": "https://shop.butterflyonline.com/Item Images/1262.media.02.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong ZLC: Close-up of Blade Face",
+							"url": "https://shop.butterflyonline.com/Item Images/1262.media.03.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong ZLC: Close-up of Handle Face",
+							"url": "https://shop.butterflyonline.com/Item Images/1262.media.04.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong ZLC: Close-up of the backside of Handle",
+							"url": "https://shop.butterflyonline.com/Item Images/1262.media.05.jpg"
+						}
+					],
+					"FL": {
+						"urls": [
+							{
+								"altimagetext": "Butterfly Fan Zhendong ZLC: Close up of the Flared Handle Type",
+								"url": "https://shop.butterflyonline.com/Item Images/1262.media.FL.01.jpg"
+							}
+						]
+					}
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$269.99",
+				"onlinecustomerprice": 269.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 269.99,
+						"price_formatted": "$269.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 229.49,
+						"price_formatted": "$229.49"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$269.99",
+			"internalid": 23908,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$199.80",
+			"isinstock": true,
+			"onlinecustomerprice": 269.99,
+			"itemid": "1262",
+			"onlinecustomerprice_formatted": "$269.99",
+			"isbackorderable": true,
+			"pricelevel16": 177.82,
+			"pricelevel18": 195.8,
+			"onlinematrixpricerange": "269.99 269.99",
+			"pricelevel9": 193.81,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Allow back orders but display out-of-stock message",
+			"pricelevel7": 197.8,
+			"quantityavailable": 26.0,
+			"pricelevel5": 269.99,
+			"displayname": "Fan Zhendong ZLC",
+			"storedisplayname2": "Fan Zhendong ZLC",
+			"pricelevel24": 181.82,
+			"pricelevel2": 175.82,
+			"pricelevel1": 199.8,
+			"pricelevel26": 169.83,
+			"urlcomponent": "Fan-Zhendong-ZLC-1262"
+		},
+		{
+			"custitem_ef_badges": "&nbsp;",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 185.81,
+			"pricelevel12": 187.81,
+			"pricelevel15": 179.82,
+			"pricelevel14": 183.82,
+			"pricelevel11": 189.81,
+			"pricelevel10": 191.81,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Fan Zhendong ZLC CS",
+					"url": "https://shop.butterflyonline.com/Item Images/1018CS.main.jpg"
+				},
+				"media": {
+					"urls": [
+						{
+							"altimagetext": "Butterfly Fan Zhendong ZLC CS: Close up of entire blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1018CS.media.01.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong ZLC CS: Close up of ZLC and Wood Plies",
+							"url": "https://shop.butterflyonline.com/Item Images/1018CS.media.02.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong ZLC CS: Close up of Blade Face",
+							"url": "https://shop.butterflyonline.com/Item Images/1018CS.media.03.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong ZLC CS: Close up of Handle",
+							"url": "https://shop.butterflyonline.com/Item Images/1018CS.media.04.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong ZLC CS: Close up of backside of handle",
+							"url": "https://shop.butterflyonline.com/Item Images/1018CS.media.05.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Fan Zhendong ZLC CS: Close up of lower third of CS handle",
+							"url": "https://shop.butterflyonline.com/Item Images/1018CS.media.06.jpg"
+						}
+					]
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$269.99",
+				"onlinecustomerprice": 269.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 269.99,
+						"price_formatted": "$269.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 229.49,
+						"price_formatted": "$229.49"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$269.99",
+			"internalid": 23899,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$199.80",
+			"isinstock": true,
+			"onlinecustomerprice": 269.99,
+			"itemid": "1018CS",
+			"onlinecustomerprice_formatted": "$269.99",
+			"isbackorderable": true,
+			"pricelevel16": 177.82,
+			"pricelevel18": 195.8,
+			"pricelevel9": 193.81,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Allow back orders but display out-of-stock message",
+			"pricelevel7": 197.8,
+			"quantityavailable": 4.0,
+			"pricelevel5": 269.99,
+			"displayname": "Fan Zhendong ZLC CS",
+			"storedisplayname2": "Fan Zhendong ZLC CS",
+			"pricelevel24": 181.82,
+			"pricelevel2": 175.82,
+			"pricelevel1": 199.8,
+			"pricelevel26": 169.83,
+			"urlcomponent": "Fan-Zhendong-ZLC-CS-1018CS"
+		},
+		{
+			"custitem_ef_badges": "Top 10 Blades",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"custitem_ns_pr_rating": 5.0,
+			"matrixchilditems_detail": [
+				{
+					"custitem_ef_badges": "Top 10 Blades",
+					"custitem_bowmar_matrix_handle_style": "FL",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 23736,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1259FL",
+					"isbackorderable": true,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 62.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				},
+				{
+					"custitem_ef_badges": "Top 10 Blades",
+					"custitem_bowmar_matrix_handle_style": "ST",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 23737,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1259ST",
+					"isbackorderable": true,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 8.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				}
+			],
+			"custitem_ns_pr_count": 10,
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 185.81,
+			"pricelevel12": 187.81,
+			"pricelevel15": 179.82,
+			"pricelevel14": 183.82,
+			"pricelevel11": 189.81,
+			"pricelevel10": 191.81,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Butterfly Viscaria Super ALC Blade: Straight & Flared Handle Type",
+					"url": "https://shop.butterflyonline.com/Item Images/1259.main.jpg"
+				},
+				"media": {
+					"ST": {
+						"urls": [
+							{
+								"altimagetext": "Butterfly Viscaria Super ALC Blade: Diagonal Shot of Straight Handle",
+								"url": "https://shop.butterflyonline.com/Item Images/1259.media.ST.01.jpg"
+							},
+							{
+								"altimagetext": "Butterfly Viscaria Super ALC Blade: Close-up of Straight Handle Blade Face",
+								"url": "https://shop.butterflyonline.com/Item Images/1259.media.ST.02.jpg"
+							},
+							{
+								"altimagetext": "Butterfly Viscaria Super ALC Blade: Close-up of Lower Third and Straight Handle",
+								"url": "https://shop.butterflyonline.com/Item Images/1259.media.ST.03.jpg"
+							},
+							{
+								"altimagetext": "Butterfly Viscaria Super ALC Blade: Front Shot of Straight Handle Type",
+								"url": "https://shop.butterflyonline.com/Item Images/1259.media.ST.04.jpg"
+							},
+							{
+								"altimagetext": "Butterfly Viscaria Super ALC Blade: Vertical Shot of Backside of Straight Handle",
+								"url": "https://shop.butterflyonline.com/Item Images/1259.media.ST.05.jpg"
+							},
+							{
+								"altimagetext": "Butterfly Viscaria Super ALC Blade: Close-up of Lower Third and Backside of Straight Handle",
+								"url": "https://shop.butterflyonline.com/Item Images/1259.media.ST.06.jpg"
+							},
+							{
+								"altimagetext": "Butterfly Viscaria Super ALC Blade: Diagonal Shot of Entire Straight Handle",
+								"url": "https://shop.butterflyonline.com/Item Images/1259.media.ST.07.jpg"
+							}
+						]
+					},
+					"urls": [
+						{
+							"altimagetext": "Butterfly Viscaria Super ALC Blade: Group Pic of FL and ST Handle Types",
+							"url": "https://shop.butterflyonline.com/Item Images/1259.media.01.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Viscaria Super ALC Blade: Super ALC Logo",
+							"url": "https://shop.butterflyonline.com/Item Images/1259.media.02.jpg"
+						}
+					],
+					"FL": {
+						"urls": [
+							{
+								"altimagetext": "Butterfly Viscaria Super ALC Blade: Diagonal Shot of Flared Handle",
+								"url": "https://shop.butterflyonline.com/Item Images/1259.media.FL.01.jpg"
+							},
+							{
+								"altimagetext": "Butterfly Viscaria Super ALC Blade: Close-up of Blade Face",
+								"url": "https://shop.butterflyonline.com/Item Images/1259.media.FL.02.jpg"
+							},
+							{
+								"altimagetext": "Butterfly Viscaria Super ALC Blade: Close-up of Lower Third and Handle",
+								"url": "https://shop.butterflyonline.com/Item Images/1259.media.FL.03.jpg"
+							},
+							{
+								"altimagetext": "Butterfly Viscaria Super ALC Blade: Front Shot of Flared Handle Type",
+								"url": "https://shop.butterflyonline.com/Item Images/1259.media.FL.04.jpg"
+							},
+							{
+								"altimagetext": "Butterfly Viscaria Super ALC Blade: Close-up of Flared Handle",
+								"url": "https://shop.butterflyonline.com/Item Images/1259.media.FL.05.jpg"
+							},
+							{
+								"altimagetext": "Butterfly Viscaria Super ALC Blade: Backside of Flared",
+								"url": "https://shop.butterflyonline.com/Item Images/1259.media.FL.06.jpg"
+							},
+							{
+								"altimagetext": "Butterfly Viscaria Super ALC Blade: Vertical Shot of Backside of Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1259.media.FL.07.jpg"
+							}
+						]
+					}
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$269.99",
+				"onlinecustomerprice": 269.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 269.99,
+						"price_formatted": "$269.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 229.49,
+						"price_formatted": "$229.49"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$269.99",
+			"internalid": 23735,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$199.80",
+			"isinstock": true,
+			"onlinecustomerprice": 269.99,
+			"itemid": "1259",
+			"onlinecustomerprice_formatted": "$269.99",
+			"isbackorderable": true,
+			"pricelevel16": 177.82,
+			"pricelevel18": 195.8,
+			"onlinematrixpricerange": "269.99 269.99",
+			"pricelevel9": 193.81,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Allow back orders with no out-of-stock message",
+			"pricelevel7": 197.8,
+			"quantityavailable": 70.0,
+			"pricelevel5": 269.99,
+			"displayname": "Viscaria Super ALC Blade",
+			"storedisplayname2": "Viscaria Super ALC Blade",
+			"pricelevel24": 181.82,
+			"pricelevel2": 175.82,
+			"pricelevel1": 199.8,
+			"pricelevel26": 169.83,
+			"urlcomponent": "Viscaria-Super-ALC-1259"
+		},
+		{
+			"custitem_ef_badges": "Top 10 Penhold Blades",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"custitem_ns_pr_rating": 0.0,
+			"custitem_ns_pr_count": 0,
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 185.81,
+			"pricelevel12": 187.81,
+			"pricelevel15": 179.82,
+			"pricelevel14": 183.82,
+			"pricelevel11": 189.81,
+			"pricelevel10": 191.81,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Viscaria Super ALC CS Blade: Viscaria Chinese Style Penhold",
+					"url": "https://shop.butterflyonline.com/Item Images/1013CS.main.jpg"
+				},
+				"media": {
+					"urls": [
+						{
+							"altimagetext": "Butterfly Viscaria Super ALC CS Blade: Diagonal View of Blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1013CS.media.01.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Viscaria Super ALC CS Blade: Close-up of ALC Plies",
+							"url": "https://shop.butterflyonline.com/Item Images/1013CS.media.02.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Viscaria Super ALC CS Blade: Full Front Profile of Entire Blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1013CS.media.03.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Viscaria Super ALC CS Blade: Close-up of Blade Face",
+							"url": "https://shop.butterflyonline.com/Item Images/1013CS.media.04.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Viscaria Super ALC CS Blade: Close-up of Lower Third and Handle",
+							"url": "https://shop.butterflyonline.com/Item Images/1013CS.media.05.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Viscaria Super ALC CS Blade: Diagonal View of Handle",
+							"url": "https://shop.butterflyonline.com/Item Images/1013CS.media.06.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Viscaria Super ALC CS Blade: Diagonal View of Backside of the Handle",
+							"url": "https://shop.butterflyonline.com/Item Images/1013CS.media.07.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Viscaria Super ALC CS Blade: Close-up of Backside of the Blade Face",
+							"url": "https://shop.butterflyonline.com/Item Images/1013CS.media.08.jpg"
+						}
+					]
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$269.99",
+				"onlinecustomerprice": 269.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 269.99,
+						"price_formatted": "$269.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 229.49,
+						"price_formatted": "$229.49"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$269.99",
+			"internalid": 23731,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$199.80",
+			"isinstock": true,
+			"onlinecustomerprice": 269.99,
+			"itemid": "1013CS",
+			"onlinecustomerprice_formatted": "$269.99",
+			"isbackorderable": true,
+			"pricelevel16": 177.82,
+			"pricelevel18": 195.8,
+			"pricelevel9": 193.81,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Allow back orders with no out-of-stock message",
+			"pricelevel7": 197.8,
+			"quantityavailable": 29.0,
+			"pricelevel5": 269.99,
+			"displayname": "Viscaria Super ALC CS Blade",
+			"storedisplayname2": "Viscaria Super ALC CS Blade",
+			"pricelevel24": 181.82,
+			"pricelevel2": 175.82,
+			"pricelevel1": 199.8,
+			"pricelevel26": 169.83,
+			"urlcomponent": "Viscaria-Super-ALC-CS-Blade-1013CS"
+		},
+		{
+			"custitem_ef_badges": "&nbsp;",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"custitem_ns_pr_rating": 5.0,
+			"matrixchilditems_detail": [
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "AN",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 22896,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1257AN",
+					"isbackorderable": true,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 10.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				},
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "FL",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 22897,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1257FL",
+					"isbackorderable": true,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 6.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				},
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "ST",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 22898,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1257ST",
+					"isbackorderable": true,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 6.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				}
+			],
+			"custitem_ns_pr_count": 3,
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 185.81,
+			"pricelevel12": 187.81,
+			"pricelevel15": 179.82,
+			"pricelevel14": 183.82,
+			"pricelevel11": 189.81,
+			"pricelevel10": 191.81,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Franziska Innerforce ZLC Blade: Full Blade",
+					"url": "https://shop.butterflyonline.com/Item Images/1257.main.jpg"
+				},
+				"media": {
+					"ST": {
+						"urls": [
+							{
+								"altimagetext": "Franziska Innerforce ZLC Blade: Close-up of Straight Handle Type",
+								"url": "https://shop.butterflyonline.com/Item Images/1257.media.ST.01.jpg"
+							}
+						]
+					},
+					"urls": [
+						{
+							"altimagetext": "Franziska Innerforce ZLC Blade: Close-up of Sideview Blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1257.media.02.jpg"
+						},
+						{
+							"altimagetext": "",
+							"url": "https://shop.butterflyonline.com/Item Images/1257.media.03.jpg"
+						}
+					],
+					"FL": {
+						"urls": [
+							{
+								"altimagetext": "Franziska Innerforce ZLC Blade: Full Flared Handle Type",
+								"url": "https://shop.butterflyonline.com/Item Images/1257.media.FL.01.jpg"
+							},
+							{
+								"altimagetext": "Franziska Innerforce ZLC Blade: Diagonal Close-up of Flared Handle",
+								"url": "https://shop.butterflyonline.com/Item Images/1257.media.FL.02.jpg"
+							},
+							{
+								"altimagetext": "Franziska Innerforce ZLC Blade: Close-up of Backside Flared Handle",
+								"url": "https://shop.butterflyonline.com/Item Images/1257.media.FL.03.jpg"
+							},
+							{
+								"altimagetext": "Franziska Innerforce ZLC Blade: Diagonal Close-up of Flared Handle Type",
+								"url": "https://shop.butterflyonline.com/Item Images/1257.media.FL.04.jpg"
+							}
+						]
+					},
+					"AN": {
+						"urls": [
+							{
+								"altimagetext": "Franziska Innerforce ZLC Blade: Close-up of Anatomic Handle Type",
+								"url": "https://shop.butterflyonline.com/Item Images/1257.media.AN.01.jpg"
+							}
+						]
+					}
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$269.99",
+				"onlinecustomerprice": 269.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 269.99,
+						"price_formatted": "$269.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 229.49,
+						"price_formatted": "$229.49"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$269.99",
+			"internalid": 22895,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$199.80",
+			"isinstock": true,
+			"onlinecustomerprice": 269.99,
+			"itemid": "1257",
+			"onlinecustomerprice_formatted": "$269.99",
+			"isbackorderable": true,
+			"pricelevel16": 177.82,
+			"pricelevel18": 195.8,
+			"onlinematrixpricerange": "269.99 269.99",
+			"pricelevel9": 193.81,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Allow back orders with no out-of-stock message",
+			"pricelevel7": 197.8,
+			"quantityavailable": 22.0,
+			"pricelevel5": 269.99,
+			"displayname": "Franziska Innerforce ZLC Blade",
+			"storedisplayname2": "Franziska Innerforce ZLC Blade",
+			"pricelevel24": 181.82,
+			"pricelevel2": 175.82,
+			"pricelevel1": 199.8,
+			"pricelevel26": 169.83,
+			"urlcomponent": "Franziska-Innerforce-ZLC-Blade-1257"
+		},
+		{
+			"custitem_ef_badges": "&nbsp;",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"custitem_ns_pr_rating": 5.0,
+			"custitem_ns_pr_count": 1,
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 185.81,
+			"pricelevel12": 187.81,
+			"pricelevel15": 179.82,
+			"pricelevel14": 183.82,
+			"pricelevel11": 189.81,
+			"pricelevel10": 191.81,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Harimoto Innerforce ZLC CS Blade",
+					"url": "https://shop.butterflyonline.com/Item Images/1012CS.main.jpg"
+				},
+				"media": {
+					"urls": [
+						{
+							"altimagetext": "Harimoto Innerforce ZLC CS Blade: Chinese Style Penhold Blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1012CS.media.01.png"
+						},
+						{
+							"altimagetext": "Harimoto Innerforce ZLC CS Blade: Sideview of Blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1012CS.media.02.png"
+						},
+						{
+							"altimagetext": "Harimoto Innerforce ZLC CS Blade: Vertical view of Blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1012CS.media.03.png"
+						},
+						{
+							"altimagetext": "Harimoto Innerforce ZLC CS Blade: Diagonal View of Blade and Blade Face",
+							"url": "https://shop.butterflyonline.com/Item Images/1012CS.media.04.png"
+						},
+						{
+							"altimagetext": "Harimoto Innerforce ZLC CS Blade: Handle View",
+							"url": "https://shop.butterflyonline.com/Item Images/1012CS.media.05.png"
+						}
+					]
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$269.99",
+				"onlinecustomerprice": 269.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 269.99,
+						"price_formatted": "$269.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 229.49,
+						"price_formatted": "$229.49"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$269.99",
+			"internalid": 18638,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$199.80",
+			"isinstock": true,
+			"onlinecustomerprice": 269.99,
+			"itemid": "1012CS",
+			"onlinecustomerprice_formatted": "$269.99",
+			"isbackorderable": true,
+			"pricelevel16": 177.82,
+			"pricelevel18": 195.8,
+			"pricelevel9": 193.81,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Allow back orders with no out-of-stock message",
+			"pricelevel7": 197.8,
+			"quantityavailable": 1.0,
+			"pricelevel5": 269.99,
+			"displayname": "Harimoto Innerforce ZLC CS Blade",
+			"storedisplayname2": "Harimoto Innerforce ZLC CS Blade",
+			"pricelevel24": 181.82,
+			"pricelevel2": 175.82,
+			"pricelevel1": 199.8,
+			"pricelevel26": 169.83,
+			"urlcomponent": "Harimoto-Innerforce-ZLC-CS"
+		},
+		{
+			"custitem_ef_badges": "&nbsp;",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"matrixchilditems_detail": [
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "AN",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 19530,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1251AN",
+					"isbackorderable": true,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 8.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				},
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "FL",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 19531,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1251FL",
+					"isbackorderable": true,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 7.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				},
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "ST",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 19532,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1251ST",
+					"isbackorderable": true,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 3.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				}
+			],
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 185.81,
+			"pricelevel12": 187.81,
+			"pricelevel15": 179.82,
+			"pricelevel14": 183.82,
+			"pricelevel11": 189.81,
+			"pricelevel10": 191.81,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "",
+					"url": "https://shop.butterflyonline.com/Item Images/1251.main.jpg"
+				},
+				"media": {
+					"ST": {
+						"urls": [
+							{
+								"altimagetext": "Harimoto Innerforce ZLC Blade: Straight Handle Full Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1251.media.ST.01.png"
+							},
+							{
+								"altimagetext": "Harimoto Innerforce ZLC Blade: Straight Handle Full Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1251.media.ST.02.png"
+							}
+						]
+					},
+					"urls": [
+						{
+							"altimagetext": "Harimoto Innerforce ZLC Blade: All Handle Types",
+							"url": "https://shop.butterflyonline.com/Item Images/1251.media.01.png"
+						},
+						{
+							"altimagetext": "Harimoto Innerforce ZLC Blade: Sideview of Blade",
+							"url": "https://shop.butterflyonline.com/Item Images/1251.media.02.png"
+						},
+						{
+							"altimagetext": "Harimoto Innerforce ZLC Blade: Handle View",
+							"url": "https://shop.butterflyonline.com/Item Images/1251.media.03.png"
+						}
+					],
+					"FL": {
+						"urls": [
+							{
+								"altimagetext": "Harimoto Innerforce ZLC Blade: Flared Handle Full Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1251.media.FL.01.png"
+							},
+							{
+								"altimagetext": "Harimoto Innerforce ZLC Blade: Flared Handle Close-up",
+								"url": "https://shop.butterflyonline.com/Item Images/1251.media.FL.02.jpeg"
+							}
+						]
+					},
+					"AN": {
+						"urls": [
+							{
+								"altimagetext": "Harimoto Innerforce ZLC Blade: AN Handle Full Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1251.media.AN.01.png"
+							},
+							{
+								"altimagetext": "Harimoto Innerforce ZLC Blade: AN Handle Full Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1251.media.AN.02.png"
+							}
+						]
+					}
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$269.99",
+				"onlinecustomerprice": 269.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 269.99,
+						"price_formatted": "$269.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 229.49,
+						"price_formatted": "$229.49"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$269.99",
+			"internalid": 18531,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$199.80",
+			"isinstock": true,
+			"onlinecustomerprice": 269.99,
+			"itemid": "1251",
+			"onlinecustomerprice_formatted": "$269.99",
+			"isbackorderable": true,
+			"pricelevel16": 177.82,
+			"pricelevel18": 195.8,
+			"onlinematrixpricerange": "269.99 269.99",
+			"pricelevel9": 193.81,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Allow back orders with no out-of-stock message",
+			"pricelevel7": 197.8,
+			"quantityavailable": 18.0,
+			"pricelevel5": 269.99,
+			"displayname": "Harimoto Innerforce ZLC Blade",
+			"storedisplayname2": "Harimoto Innerforce ZLC Blade",
+			"pricelevel24": 181.82,
+			"pricelevel2": 175.82,
+			"pricelevel1": 199.8,
+			"pricelevel26": 169.83,
+			"urlcomponent": "Harimoto-Innerforce-ZLC"
+		},
+		{
+			"custitem_ef_badges": "&nbsp;",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"custitem_ns_pr_rating": 0.0,
+			"matrixchilditems_detail": [
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "AN",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 9717,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1237AN",
+					"isbackorderable": true,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 1.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				},
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "FL",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 9718,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1237FL",
+					"isbackorderable": true,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 2.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				},
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "ST",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 9719,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1237ST",
+					"isbackorderable": true,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 2.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				}
+			],
+			"custitem_ns_pr_count": 0,
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 185.81,
+			"pricelevel12": 187.81,
+			"pricelevel15": 179.82,
+			"pricelevel14": 183.82,
+			"pricelevel11": 189.81,
+			"pricelevel10": 191.81,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Apolonia ZLC Blade: All Handle Types",
+					"url": "https://shop.butterflyonline.com/Item Images/1237.main.jpg"
+				},
+				"media": {
+					"ST": {
+						"urls": [
+							{
+								"altimagetext": "Apolonia ZLC Blade: Straight Handle Full Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1237.media.ST.01.jpg"
+							},
+							{
+								"altimagetext": "Apolonia ZLC Blade: Straight Handle Close-up",
+								"url": "https://shop.butterflyonline.com/Item Images/1237.media.ST.02.jpg"
+							}
+						]
+					},
+					"urls": [
+						{
+							"altimagetext": "Apolonia ZLC Blade: All Handle Types",
+							"url": "https://shop.butterflyonline.com/Item Images/1237.media.01.jpg"
+						},
+						{
+							"altimagetext": "Apolonia ZLC Blade: Handle Shaft Close-up",
+							"url": "https://shop.butterflyonline.com/Item Images/1237.media.03.jpg"
+						}
+					],
+					"FL": {
+						"urls": [
+							{
+								"altimagetext": "Apolonia ZLC Blade: Flared Diagonal Full Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1237.media.FL.01.jpg"
+							},
+							{
+								"altimagetext": "Apolonia ZLC Blade: Flared Handle Close-up",
+								"url": "https://shop.butterflyonline.com/Item Images/1237.media.FL.02.jpg"
+							}
+						]
+					},
+					"AN": {
+						"urls": [
+							{
+								"altimagetext": "Apolonia ZLC Blade: AN Handle Full Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1237.media.AN.01.jpg"
+							},
+							{
+								"altimagetext": "Apolonia ZLC Blade: AN Handle Close-up",
+								"url": "https://shop.butterflyonline.com/Item Images/1237.media.AN.02.jpg"
+							}
+						]
+					}
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$269.99",
+				"onlinecustomerprice": 269.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 269.99,
+						"price_formatted": "$269.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 229.49,
+						"price_formatted": "$229.49"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$269.99",
+			"internalid": 9566,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$199.80",
+			"isinstock": true,
+			"onlinecustomerprice": 269.99,
+			"itemid": "1237",
+			"onlinecustomerprice_formatted": "$269.99",
+			"isbackorderable": true,
+			"pricelevel16": 177.82,
+			"pricelevel18": 195.8,
+			"onlinematrixpricerange": "269.99 269.99",
+			"pricelevel9": 193.81,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Allow back orders with no out-of-stock message",
+			"pricelevel7": 197.8,
+			"quantityavailable": 5.0,
+			"pricelevel5": 269.99,
+			"displayname": "Apolonia ZLC Blade",
+			"storedisplayname2": "Apolonia ZLC Blade",
+			"pricelevel24": 181.82,
+			"pricelevel2": 175.82,
+			"pricelevel1": 199.8,
+			"pricelevel26": 169.83,
+			"urlcomponent": "apolonia-zlc-blade"
+		},
+		{
+			"custitem_ef_badges": "&nbsp;",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"matrixchilditems_detail": [
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "AN",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 9681,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1222AN",
+					"isbackorderable": true,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 4.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				},
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "FL",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 9682,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1222FL",
+					"isbackorderable": true,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 1.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				},
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "ST",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 9683,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1222ST",
+					"isbackorderable": true,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 3.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				}
+			],
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 185.81,
+			"pricelevel12": 187.81,
+			"pricelevel15": 179.82,
+			"pricelevel14": 183.82,
+			"pricelevel11": 189.81,
+			"pricelevel10": 191.81,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Mizutani Jun ZLC Blade: All Handle Types",
+					"url": "https://shop.butterflyonline.com/Item Images/1222.main.jpg"
+				},
+				"media": {
+					"ST": {
+						"urls": [
+							{
+								"altimagetext": "Mizutani Jun ZLC Blade: Straight Handle - Full Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1222.media.ST.01.jpg"
+							},
+							{
+								"altimagetext": "Mizutani Jun ZLC Blade: Close-up of Straight Handle",
+								"url": "https://shop.butterflyonline.com/Item Images/1222.media.ST.02.jpg"
+							}
+						]
+					},
+					"urls": [
+						{
+							"altimagetext": "Mizutani Jun ZLC Blade: All Handle Types",
+							"url": "https://shop.butterflyonline.com/Item Images/1222.media.01.jpg"
+						},
+						{
+							"altimagetext": "Mizutani Jun ZLC Blade: Blade Face",
+							"url": "https://shop.butterflyonline.com/Item Images/1222.media.02.jpg"
+						},
+						{
+							"altimagetext": "Mizutani Jun ZLC Blade: Sideview",
+							"url": "https://shop.butterflyonline.com/Item Images/1222.media.03.jpg"
+						}
+					],
+					"FL": {
+						"urls": [
+							{
+								"altimagetext": "Mizutani Jun ZLC Blade: Flared Handle Type - Full Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1222.media.FL.01.jpg"
+							},
+							{
+								"altimagetext": "Mizutani Jun ZLC Blade: Close-up of Flared Handle Type",
+								"url": "https://shop.butterflyonline.com/Item Images/1222.media.FL.02.jpg"
+							}
+						]
+					},
+					"AN": {
+						"urls": [
+							{
+								"altimagetext": "Mizutani Jun ZLC Blade: Anatomic Handle Type - Full Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1222.media.AN.01.jpg"
+							},
+							{
+								"altimagetext": "Mizutani Jun ZLC Blade: Close-up of Anatomic Handle Type",
+								"url": "https://shop.butterflyonline.com/Item Images/1222.media.AN.02.jpg"
+							}
+						]
+					}
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$269.99",
+				"onlinecustomerprice": 269.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 269.99,
+						"price_formatted": "$269.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 229.49,
+						"price_formatted": "$229.49"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$269.99",
+			"internalid": 9552,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$199.80",
+			"isinstock": true,
+			"onlinecustomerprice": 269.99,
+			"itemid": "1222",
+			"onlinecustomerprice_formatted": "$269.99",
+			"isbackorderable": true,
+			"pricelevel16": 177.82,
+			"pricelevel18": 195.8,
+			"onlinematrixpricerange": "269.99 269.99",
+			"pricelevel9": 193.81,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Allow back orders with no out-of-stock message",
+			"pricelevel7": 197.8,
+			"quantityavailable": 8.0,
+			"pricelevel5": 269.99,
+			"displayname": "Mizutani Jun ZLC Blade",
+			"storedisplayname2": "Mizutani Jun ZLC Blade",
+			"pricelevel24": 181.82,
+			"pricelevel2": 175.82,
+			"pricelevel1": 199.8,
+			"pricelevel26": 169.83,
+			"urlcomponent": "mizutani-jun-zlc"
+		},
+		{
+			"custitem_ef_badges": "&nbsp;",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"custitem_ns_pr_rating": 5.0,
+			"matrixchilditems_detail": [
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "AN",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 9669,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1218AN",
+					"isbackorderable": false,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Remove item when out-of-stock",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 1.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				},
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "FL",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 9670,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1218FL",
+					"isbackorderable": false,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Remove item when out-of-stock",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 6.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				},
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "ST",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 9671,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1218ST",
+					"isbackorderable": false,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Remove item when out-of-stock",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 2.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				}
+			],
+			"custitem_ns_pr_count": 1,
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 185.81,
+			"pricelevel12": 187.81,
+			"pricelevel15": 179.82,
+			"pricelevel14": 183.82,
+			"pricelevel11": 189.81,
+			"pricelevel10": 191.81,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Zhang Jike ZLC Blade: All Handle Types",
+					"url": "https://shop.butterflyonline.com/Item Images/1218.main.jpg"
+				},
+				"media": {
+					"ST": {
+						"urls": [
+							{
+								"altimagetext": "Zhang Jike ZLC Blade: Close-up of Straight Handle Type",
+								"url": "https://shop.butterflyonline.com/Item Images/1218.media.ST.01.jpg"
+							},
+							{
+								"altimagetext": "Zhang Jike ZLC Blade: Straight Handle Type - Full Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1218.media.ST.02.jpg"
+							}
+						]
+					},
+					"urls": [
+						{
+							"altimagetext": "Zhang Jike ZLC Blade: All Handle Types",
+							"url": "https://shop.butterflyonline.com/Item Images/1218.media.01.jpg"
+						},
+						{
+							"altimagetext": "Zhang Jike ZLC Blade: Blade Face",
+							"url": "https://shop.butterflyonline.com/Item Images/1218.media.02.jpg"
+						},
+						{
+							"altimagetext": "Zhang Jike ZLC Blade: Sideview",
+							"url": "https://shop.butterflyonline.com/Item Images/1218.media.03.jpg"
+						}
+					],
+					"FL": {
+						"urls": [
+							{
+								"altimagetext": "Zhang Jike ZLC Blade: Flared Handle Type - Full Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1218.media.FL.01.jpg"
+							},
+							{
+								"altimagetext": "Zhang Jike ZLC Blade: Close-up of Flared Handle Type",
+								"url": "https://shop.butterflyonline.com/Item Images/1218.media.FL.02.jpg"
+							}
+						]
+					},
+					"AN": {
+						"urls": [
+							{
+								"altimagetext": "Zhang Jike ZLC Blade: Anatomic Handle Type - Full Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1218.media.AN.01.jpg"
+							},
+							{
+								"altimagetext": "Zhang Jike ZLC Blade: Close-up of Anatomic Handle Type",
+								"url": "https://shop.butterflyonline.com/Item Images/1218.media.AN.02.jpg"
+							}
+						]
+					}
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$269.99",
+				"onlinecustomerprice": 269.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 269.99,
+						"price_formatted": "$269.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 229.49,
+						"price_formatted": "$229.49"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$269.99",
+			"internalid": 9548,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$199.80",
+			"isinstock": true,
+			"onlinecustomerprice": 269.99,
+			"itemid": "1218",
+			"onlinecustomerprice_formatted": "$269.99",
+			"isbackorderable": false,
+			"pricelevel16": 177.82,
+			"pricelevel18": 195.8,
+			"onlinematrixpricerange": "269.99 269.99",
+			"pricelevel9": 193.81,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Remove item when out-of-stock",
+			"pricelevel7": 197.8,
+			"quantityavailable": 9.0,
+			"pricelevel5": 269.99,
+			"displayname": "Zhang Jike ZLC Blade",
+			"storedisplayname2": "Zhang Jike ZLC Blade",
+			"pricelevel24": 181.82,
+			"pricelevel2": 175.82,
+			"pricelevel1": 199.8,
+			"pricelevel26": 169.83,
+			"urlcomponent": "zhang-jike-zlc-blade-7770p"
+		},
+		{
+			"custitem_ef_badges": "&nbsp;",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"custitem_ns_pr_rating": 5.0,
+			"matrixchilditems_detail": [
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "AN",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 9654,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1212AN",
+					"isbackorderable": true,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 5.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				},
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "FL",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 9655,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1212FL",
+					"isbackorderable": true,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 39.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				},
+				{
+					"custitem_ef_badges": "&nbsp;",
+					"custitem_bowmar_matrix_handle_style": "ST",
+					"ispricevisible_detail": {
+						"inpersonalizedcatalog": true,
+						"bycurrentuserloginstatus": true
+					},
+					"ispurchasable_detail": {
+						"inpersonalizedcatalog": true,
+						"bystockavailability": true
+					},
+					"ispricevisible": true,
+					"ispurchasable": true,
+					"stockdescription": "",
+					"pricelevel13": 185.81,
+					"pricelevel12": 187.81,
+					"pricelevel15": 179.82,
+					"pricelevel14": 183.82,
+					"pricelevel11": 189.81,
+					"pricelevel10": 191.81,
+					"onlinecustomerprice_detail": {
+						"onlinecustomerprice_formatted": "$269.99",
+						"onlinecustomerprice": 269.99,
+						"priceschedule": [
+							{
+								"maximumquantity": 1.0,
+								"minimumquantity": 0.0,
+								"price": 269.99,
+								"price_formatted": "$269.99"
+							},
+							{
+								"minimumquantity": 1.0,
+								"price": 229.49,
+								"price_formatted": "$229.49"
+							}
+						]
+					},
+					"pricelevel5_formatted": "$269.99",
+					"internalid": 9656,
+					"outofstockmessage": "",
+					"pricelevel1_formatted": "$199.80",
+					"isinstock": true,
+					"itemid": "1212ST",
+					"isbackorderable": true,
+					"pricelevel16": 177.82,
+					"pricelevel18": 195.8,
+					"pricelevel9": 193.81,
+					"showoutofstockmessage": false,
+					"outofstockbehavior": "Allow back orders with no out-of-stock message",
+					"itemtype": "InvtPart",
+					"pricelevel7": 197.8,
+					"quantityavailable": 1.0,
+					"pricelevel5": 269.99,
+					"isdropshipitem": false,
+					"pricelevel24": 181.82,
+					"pricelevel2": 175.82,
+					"pricelevel1": 199.8,
+					"isspecialorderitem": false,
+					"pricelevel26": 169.83
+				}
+			],
+			"custitem_ns_pr_count": 2,
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 185.81,
+			"pricelevel12": 187.81,
+			"pricelevel15": 179.82,
+			"pricelevel14": 183.82,
+			"pricelevel11": 189.81,
+			"pricelevel10": 191.81,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Timo Boll ZLC Blade: All Handle Types",
+					"url": "https://shop.butterflyonline.com/Item Images/1212.main.jpg"
+				},
+				"media": {
+					"ST": {
+						"urls": [
+							{
+								"altimagetext": "Timo Boll ZLC Blade: Close-up of Straight Handle Type",
+								"url": "https://shop.butterflyonline.com/Item Images/1212.media.ST.01.jpg"
+							},
+							{
+								"altimagetext": "Timo Boll ZLC Blade: Straight Blade - Full Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1212.media.ST.02.jpg"
+							}
+						]
+					},
+					"urls": [
+						{
+							"altimagetext": "Timo Boll ZLC Blade: All Handle Types",
+							"url": "https://shop.butterflyonline.com/Item Images/1212.media.01.jpg"
+						},
+						{
+							"altimagetext": "Timo Boll ZLC Blade: Blade Face",
+							"url": "https://shop.butterflyonline.com/Item Images/1212.media.02.jpg"
+						},
+						{
+							"altimagetext": "",
+							"url": "https://shop.butterflyonline.com/Item Images/1212.media.03.jpg"
+						}
+					],
+					"FL": {
+						"urls": [
+							{
+								"altimagetext": "Timo Boll ZLC Blade: Flared Handle Type - Full Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1212.media.FL.01.jpg"
+							},
+							{
+								"altimagetext": "Timo Boll ZLC Blade: Close-up of Flared Handle Type",
+								"url": "https://shop.butterflyonline.com/Item Images/1212.media.FL.02.jpg"
+							}
+						]
+					},
+					"AN": {
+						"urls": [
+							{
+								"altimagetext": "Timo Boll ZLC Blade: Anatomic Blade - Full Blade",
+								"url": "https://shop.butterflyonline.com/Item Images/1212.media.AN.01.jpg"
+							},
+							{
+								"altimagetext": "Timo Boll ZLC Blade: Close-up of Anatomic Handle Type",
+								"url": "https://shop.butterflyonline.com/Item Images/1212.media.AN.02.jpg"
+							}
+						]
+					}
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$269.99",
+				"onlinecustomerprice": 269.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 269.99,
+						"price_formatted": "$269.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 229.49,
+						"price_formatted": "$229.49"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$269.99",
+			"internalid": 9543,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$199.80",
+			"isinstock": true,
+			"onlinecustomerprice": 269.99,
+			"itemid": "1212",
+			"onlinecustomerprice_formatted": "$269.99",
+			"isbackorderable": true,
+			"pricelevel16": 177.82,
+			"pricelevel18": 195.8,
+			"onlinematrixpricerange": "269.99 269.99",
+			"pricelevel9": 193.81,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Allow back orders with no out-of-stock message",
+			"pricelevel7": 197.8,
+			"quantityavailable": 45.0,
+			"pricelevel5": 269.99,
+			"displayname": "Timo Boll ZLC Blade",
+			"storedisplayname2": "Timo Boll ZLC Blade",
+			"pricelevel24": 181.82,
+			"pricelevel2": 175.82,
+			"pricelevel1": 199.8,
+			"pricelevel26": 169.83,
+			"urlcomponent": "timo-boll-zlc-blade"
+		},
+		{
+			"custitem_ef_badges": "&nbsp;",
+			"ispricevisible_detail": {
+				"inpersonalizedcatalog": true,
+				"bycurrentuserloginstatus": true
+			},
+			"ispurchasable_detail": {
+				"inpersonalizedcatalog": true,
+				"bystockavailability": true
+			},
+			"ispricevisible": true,
+			"custitem_is_variable_amount": false,
+			"ispurchasable": true,
+			"stockdescription": "",
+			"pricelevel13": 172.05,
+			"pricelevel12": 173.9,
+			"pricelevel15": 166.5,
+			"pricelevel14": 170.2,
+			"pricelevel11": 175.75,
+			"pricelevel10": 177.6,
+			"itemimages_detail": {
+				"main": {
+					"altimagetext": "Butterfly Harimoto Innerforce Super ALC Chinese Penhold",
+					"url": "https://shop.butterflyonline.com/Item Images/1022CS.main.jpg"
+				},
+				"media": {
+					"urls": [
+						{
+							"altimagetext": "Butterfly Harimoto Innerforce Super ALC Chinese Penhold CS",
+							"url": "https://shop.butterflyonline.com/Item Images/1022CS.media.01.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Harimoto Innerforce Super ALC Chinese Penhold - Angled",
+							"url": "https://shop.butterflyonline.com/Item Images/1022CS.media.02.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Harimoto Innerforce Super ALC Chinese Penhold - Angled - Close-Up",
+							"url": "https://shop.butterflyonline.com/Item Images/1022CS.media.03.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Harimoto Innerforce Super ALC Chinese Penhold - Upright",
+							"url": "https://shop.butterflyonline.com/Item Images/1022CS.media.04.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Harimoto Innerforce Super ALC Chinese Penhold - Head - Close-Up",
+							"url": "https://shop.butterflyonline.com/Item Images/1022CS.media.05.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Harimoto Innerforce Super ALC Chinese Penhold - Handle - Close-Up",
+							"url": "https://shop.butterflyonline.com/Item Images/1022CS.media.06.jpg"
+						},
+						{
+							"altimagetext": "Butterfly Harimoto Innerforce Super ALC Chinese Penhold - Back",
+							"url": "https://shop.butterflyonline.com/Item Images/1022CS.media.07.jpg"
+						}
+					]
+				}
+			},
+			"onlinecustomerprice_detail": {
+				"onlinecustomerprice_formatted": "$249.99",
+				"onlinecustomerprice": 249.99,
+				"priceschedule": [
+					{
+						"maximumquantity": 1.0,
+						"minimumquantity": 0.0,
+						"price": 249.99,
+						"price_formatted": "$249.99"
+					},
+					{
+						"minimumquantity": 1.0,
+						"price": 212.49,
+						"price_formatted": "$212.49"
+					}
+				]
+			},
+			"pricelevel5_formatted": "$249.99",
+			"internalid": 25760,
+			"outofstockmessage": "",
+			"storedescription": "",
+			"pricelevel1_formatted": "$185.00",
+			"isinstock": true,
+			"onlinecustomerprice": 249.99,
+			"itemid": "1022CS",
+			"onlinecustomerprice_formatted": "$249.99",
+			"isbackorderable": true,
+			"pricelevel16": 164.65,
+			"pricelevel18": 181.3,
+			"pricelevel9": 179.45,
+			"showoutofstockmessage": false,
+			"outofstockbehavior": "Allow back orders but display out-of-stock message",
+			"pricelevel7": 183.15,
+			"quantityavailable": 8.0,
+			"pricelevel5": 249.99,
+			"displayname": "Harimoto Innerforce Super ALC CS",
+			"storedisplayname2": "Harimoto Innerforce Super ALC CS",
+			"pricelevel24": 168.35,
+			"pricelevel2": 162.8,
+			"pricelevel1": 185.0,
+			"pricelevel26": 157.25,
+			"urlcomponent": "harimoto-innerforce-super-alc-cs-1022cs"
+		}
+	],
+	"facets": [
+		{
+			"id": "category",
+			"values": []
+		},
+		{
+			"id": "commercecategoryname",
+			"values": [
+				{
+					"url": "Accessories"
+				},
+				{
+					"url": "Accessories & Care"
+				},
+				{
+					"url": "Adhesives"
+				},
+				{
+					"url": "Apparel"
+				},
+				{
+					"url": "Apparel & Footwear"
+				},
+				{
+					"url": "Bags"
+				},
+				{
+					"url": "Balls"
+				},
+				{
+					"url": "Balls, Bags & Cases"
+				},
+				{
+					"url": "Barriers"
+				},
+				{
+					"url": "Blades"
+				},
+				{
+					"url": "Books"
+				},
+				{
+					"url": "Butterfly Amicus"
+				},
+				{
+					"url": "Butterfly Pro-Line"
+				},
+				{
+					"url": "Butterfly Recreational"
+				},
+				{
+					"url": "Butterfly Sets"
+				},
+				{
+					"url": "Butterfly Table Tennis Balls"
+				},
+				{
+					"url": "Chinese Penhold"
+				},
+				{
+					"url": "Closeouts"
+				},
+				{
+					"url": "Court"
+				},
+				{
+					"url": "Court & Tables"
+				},
+				{
+					"url": "Dignics Series"
+				},
+				{
+					"url": "Equipment"
+				},
+				{
+					"url": "Footwear"
+				},
+				{
+					"url": "Gift Certificates"
+				},
+				{
+					"url": "Grips"
+				},
+				{
+					"url": "High Friction Pimples-In"
+				},
+				{
+					"url": "High Tension Pimples-In"
+				},
+				{
+					"url": "High Tension Pimples-Out"
+				},
+				{
+					"url": "Home"
+				},
+				{
+					"url": "Institutional"
+				},
+				{
+					"url": "Instructional"
+				},
+				{
+					"url": "Jackets"
+				},
+				{
+					"url": "Japanese Penhold"
+				},
+				{
+					"url": "Junior Blades"
+				},
+				{
+					"url": "Long Pimples"
+				},
+				{
+					"url": "MK Balls"
+				},
+				{
+					"url": "MK Recreational"
+				},
+				{
+					"url": "MK Sets"
+				},
+				{
+					"url": "Miscellaneous"
+				},
+				{
+					"url": "Monthly Sale"
+				},
+				{
+					"url": "Nets"
+				},
+				{
+					"url": "New Arrivals"
+				},
+				{
+					"url": "Outdoor"
+				},
+				{
+					"url": "Pimples-In"
+				},
+				{
+					"url": "Pimples-Out"
+				},
+				{
+					"url": "Player Sets"
+				},
+				{
+					"url": "Pool Table Conversion Tops"
+				},
+				{
+					"url": "Practice Partner"
+				},
+				{
+					"url": "Pre-Assembled Rackets"
+				},
+				{
+					"url": "Professional"
+				},
+				{
+					"url": "Protective Film"
+				},
+				{
+					"url": "Racket Care"
+				},
+				{
+					"url": "Racket Cases"
+				},
+				{
+					"url": "Racket Cleaners"
+				},
+				{
+					"url": "Rackets & Sets"
+				},
+				{
+					"url": "Robots"
+				},
+				{
+					"url": "Robots & Instructional"
+				},
+				{
+					"url": "Rubber"
+				},
+				{
+					"url": "Shakehand"
+				},
+				{
+					"url": "Shirts"
+				},
+				{
+					"url": "Shoes"
+				},
+				{
+					"url": "Shorts/Skirts"
+				},
+				{
+					"url": "Side Tape"
+				},
+				{
+					"url": "Small Tables"
+				},
+				{
+					"url": "Socks"
+				},
+				{
+					"url": "Tables"
+				},
+				{
+					"url": "Tenergy Series"
+				},
+				{
+					"url": "Tournament Used"
+				},
+				{
+					"url": "Towels"
+				},
+				{
+					"url": "Tracksuits"
+				},
+				{
+					"url": "World Class Rackets"
+				}
+			]
+		},
+		{
+			"id": "custitem33",
+			"url": "custitem33",
+			"values": []
+		},
+		{
+			"id": "custitem34",
+			"url": "custitem34",
+			"values": []
+		},
+		{
+			"id": "custitem42",
+			"url": "custitem42",
+			"values": [
+				{
+					"url": "ALC-%28Arylate~Carbon%29",
+					"label": "ALC (Arylate-Carbon)"
+				},
+				{
+					"url": "All-Wood",
+					"label": "All Wood"
+				},
+				{
+					"url": "CAF-%28CA-Fiber%29",
+					"label": "CAF (CA Fiber)"
+				},
+				{
+					"url": "CNF-%28Cellulose-Nano-Fiber%29",
+					"label": "CNF (Cellulose Nano Fiber)"
+				},
+				{
+					"url": "Carbon",
+					"label": "Carbon"
+				},
+				{
+					"url": "SALC-%28Super-ALC%29",
+					"label": "SALC (Super ALC)"
+				},
+				{
+					"url": "SZLC-%28Super-ZLC%29",
+					"label": "SZLC (Super ZLC)"
+				},
+				{
+					"url": "T5000-%28Tamca-5000%29",
+					"label": "T5000 (Tamca 5000)"
+				},
+				{
+					"url": "ZLC-%28ZL-Carbon%29",
+					"label": "ZLC (ZL Carbon)"
+				},
+				{
+					"url": "ZLF-%28ZL-Fiber%29",
+					"label": "ZLF (ZL Fiber)"
+				}
+			]
+		},
+		{
+			"id": "custitem54",
+			"url": "custitem54",
+			"values": []
+		},
+		{
+			"id": "custitem55",
+			"url": "custitem55",
+			"values": []
+		},
+		{
+			"id": "custitem80",
+			"url": "custitem80",
+			"values": [
+				{
+					"url": "60.0",
+					"label": "60.0"
+				},
+				{
+					"url": "71.0",
+					"label": "71.0"
+				},
+				{
+					"url": "73.0",
+					"label": "73.0"
+				},
+				{
+					"url": "76.0",
+					"label": "76.0"
+				},
+				{
+					"url": "80.0",
+					"label": "80.0"
+				},
+				{
+					"url": "81.0",
+					"label": "81.0"
+				},
+				{
+					"url": "82.0",
+					"label": "82.0"
+				},
+				{
+					"url": "84.0",
+					"label": "84.0"
+				},
+				{
+					"url": "85.0",
+					"label": "85.0"
+				},
+				{
+					"url": "86.0",
+					"label": "86.0"
+				},
+				{
+					"url": "88.0",
+					"label": "88.0"
+				},
+				{
+					"url": "89.0",
+					"label": "89.0"
+				},
+				{
+					"url": "90.0",
+					"label": "90.0"
+				},
+				{
+					"url": "93.0",
+					"label": "93.0"
+				},
+				{
+					"url": "94.0",
+					"label": "94.0"
+				}
+			],
+			"min": 60.0,
+			"max": 94.0,
+			"ranges": []
+		},
+		{
+			"id": "custitem_bowmar_matrix_color",
+			"url": "color",
+			"values": []
+		},
+		{
+			"id": "custitem_bowmar_matrix_handle_style",
+			"url": "handle-style",
+			"values": [
+				{
+					"url": "AN",
+					"label": "AN"
+				},
+				{
+					"url": "FL",
+					"label": "FL"
+				},
+				{
+					"url": "ST",
+					"label": "ST"
+				},
+				{
+					"url": "SI",
+					"label": "SI"
+				},
+				{
+					"url": "CS",
+					"label": "CS"
+				},
+				{
+					"url": "JP",
+					"label": "JP"
+				}
+			]
+		},
+		{
+			"id": "custitem_bowmar_matrix_length",
+			"url": "length",
+			"values": []
+		},
+		{
+			"id": "custitem_bowmar_matrix_shoe_size",
+			"url": "shoe-size",
+			"values": []
+		},
+		{
+			"id": "custitem_bowmar_matrix_size",
+			"url": "size",
+			"values": []
+		},
+		{
+			"id": "custitem_bowmar_matrix_thickness",
+			"url": "thickness",
+			"values": []
+		},
+		{
+			"id": "custitem_bowmar_matrix_volume_sizes",
+			"url": "custitem_bowmar_matrix_volume_sizes",
+			"values": []
+		},
+		{
+			"id": "custitem_ef_badges",
+			"url": "badges",
+			"values": [
+				{
+					"url": "Closeout",
+					"label": "Closeout"
+				},
+				{
+					"url": "Top-10-ALC-Arylate~Carbon",
+					"label": "Top 10 ALC Arylate-Carbon"
+				},
+				{
+					"url": "Top-10-Blades",
+					"label": "Top 10 Blades"
+				},
+				{
+					"url": "Top-10-Penhold-Blades",
+					"label": "Top 10 Penhold Blades"
+				},
+				{
+					"url": "Top-10-Wood-Blades",
+					"label": "Top 10 Wood Blades"
+				}
+			]
+		},
+		{
+			"id": "custitemcustitem_pa_bh_rubber_type",
+			"url": "custitemcustitem_pa_bh_rubber_type",
+			"values": []
+		},
+		{
+			"id": "custitemcustitem_pa_fh_rubber_type",
+			"url": "custitemcustitem_pa_fh_rubber_type",
+			"values": []
+		},
+		{
+			"id": "custitempa_blade_material",
+			"url": "custitempa_blade_material",
+			"values": []
+		},
+		{
+			"id": "onlinecustomerprice",
+			"url": "pricelevel5",
+			"values": [
+				{
+					"url": "0.0",
+					"label": "0.0"
+				},
+				{
+					"url": "39.99",
+					"label": "39.99"
+				},
+				{
+					"url": "49.99",
+					"label": "49.99"
+				},
+				{
+					"url": "54.99",
+					"label": "54.99"
+				},
+				{
+					"url": "64.99",
+					"label": "64.99"
+				},
+				{
+					"url": "65.99",
+					"label": "65.99"
+				},
+				{
+					"url": "68.99",
+					"label": "68.99"
+				},
+				{
+					"url": "69.99",
+					"label": "69.99"
+				},
+				{
+					"url": "73.99",
+					"label": "73.99"
+				},
+				{
+					"url": "76.99",
+					"label": "76.99"
+				},
+				{
+					"url": "82.99",
+					"label": "82.99"
+				},
+				{
+					"url": "85.99",
+					"label": "85.99"
+				},
+				{
+					"url": "89.99",
+					"label": "89.99"
+				},
+				{
+					"url": "98.99",
+					"label": "98.99"
+				},
+				{
+					"url": "99.99",
+					"label": "99.99"
+				},
+				{
+					"url": "104.99",
+					"label": "104.99"
+				},
+				{
+					"url": "107.99",
+					"label": "107.99"
+				},
+				{
+					"url": "109.99",
+					"label": "109.99"
+				},
+				{
+					"url": "115.99",
+					"label": "115.99"
+				},
+				{
+					"url": "134.99",
+					"label": "134.99"
+				},
+				{
+					"url": "141.99",
+					"label": "141.99"
+				},
+				{
+					"url": "146.99",
+					"label": "146.99"
+				},
+				{
+					"url": "150.99",
+					"label": "150.99"
+				},
+				{
+					"url": "164.99",
+					"label": "164.99"
+				},
+				{
+					"url": "180.99",
+					"label": "180.99"
+				},
+				{
+					"url": "184.99",
+					"label": "184.99"
+				},
+				{
+					"url": "189.99",
+					"label": "189.99"
+				},
+				{
+					"url": "204.99",
+					"label": "204.99"
+				},
+				{
+					"url": "214.99",
+					"label": "214.99"
+				},
+				{
+					"url": "229.99",
+					"label": "229.99"
+				},
+				{
+					"url": "234.99",
+					"label": "234.99"
+				},
+				{
+					"url": "244.99",
+					"label": "244.99"
+				},
+				{
+					"url": "249.99",
+					"label": "249.99"
+				},
+				{
+					"url": "269.99",
+					"label": "269.99"
+				},
+				{
+					"url": "359.99",
+					"label": "359.99"
+				},
+				{
+					"url": "369.99",
+					"label": "369.99"
+				},
+				{
+					"url": "399.99",
+					"label": "399.99"
+				},
+				{
+					"url": "549.99",
+					"label": "549.99"
+				}
+			],
+			"min": 0.0,
+			"max": 549.99,
+			"ranges": []
+		}
+	],
+	"corrections": [],
+	"locale": {
+		"country": "US",
+		"language": "en",
+		"currency": "USD",
+		"region": 1
+	},
+	"backendType": "OS",
+	"backend": "E",
+	"links": [
+		{
+			"rel": "next",
+			"href": "https://shop.butterflyonline.com/api/cacheable/items?country=US&include=facets&pricelevel=5&c=739136&offset=24&commercecategoryurl=%2Fshop%2Ftable-tennis-blades&fieldset=search&language=en&facet.exclude=custitem_ns_sc_ext_only_pdp%2Ccustitem_ns_sc_ext_gift_cert_group_id%2Citemtype&sort=onlinecustomerprice%3Adesc&n=2&limit=24&use_pcv=F&currency=USD"
+		}
+	],
+	"volatility": "short",
+	"code": 200,
+	"warnings": {}
+}
